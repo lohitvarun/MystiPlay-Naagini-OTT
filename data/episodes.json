@@ -23,7 +23,7 @@
         {
           "episode": 1,
           "title": "Episode 1",
-          "thumbnail": "assets/thumbnails/naagini1-ep1.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep1.avif",
           "duration": "21:00",
           "video_url": "https://example.com/demo/naagini1-ep1.mp4",
           "popularity": 25
@@ -31,7 +31,7 @@
         {
           "episode": 2,
           "title": "Episode 2",
-          "thumbnail": "assets/thumbnails/naagini1-ep2.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep2.avif",
           "duration": "40:15",
           "video_url": "https://example.com/demo/naagini1-ep2.mp4",
           "popularity": 42
@@ -39,7 +39,7 @@
         {
           "episode": 3,
           "title": "Episode 3",
-          "thumbnail": "assets/thumbnails/naagini1-ep3.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep3.avif",
           "duration": "38:10",
           "video_url": "https://example.com/demo/naagini1-ep3.mp4",
           "popularity": 59
@@ -47,7 +47,7 @@
         {
           "episode": 4,
           "title": "Episode 4",
-          "thumbnail": "assets/thumbnails/naagini1-ep4.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep4.avif",
           "duration": "21:50",
           "video_url": "https://example.com/demo/naagini1-ep4.mp4",
           "popularity": 76
@@ -55,7 +55,7 @@
         {
           "episode": 5,
           "title": "Episode 5",
-          "thumbnail": "assets/thumbnails/naagini1-ep5.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep5.webp",
           "duration": "44:05",
           "video_url": "https://example.com/demo/naagini1-ep5.mp4",
           "popularity": 93
@@ -63,7 +63,7 @@
         {
           "episode": 6,
           "title": "Episode 6",
-          "thumbnail": "assets/thumbnails/naagini1-ep6.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep6.webp",
           "duration": "45:30",
           "video_url": "https://example.com/demo/naagini1-ep6.mp4",
           "popularity": 10
@@ -71,7 +71,7 @@
         {
           "episode": 7,
           "title": "Episode 7",
-          "thumbnail": "assets/thumbnails/naagini1-ep7.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep7.avif",
           "duration": "20:00",
           "video_url": "https://example.com/demo/naagini1-ep7.mp4",
           "popularity": 27
@@ -79,7 +79,7 @@
         {
           "episode": 8,
           "title": "Episode 8",
-          "thumbnail": "assets/thumbnails/naagini1-ep8.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep8.webp",
           "duration": "21:15",
           "video_url": "https://example.com/demo/naagini1-ep8.mp4",
           "popularity": 44
@@ -87,7 +87,7 @@
         {
           "episode": 9,
           "title": "Episode 9",
-          "thumbnail": "assets/thumbnails/naagini1-ep9.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep9.avif",
           "duration": "38:40",
           "video_url": "https://example.com/demo/naagini1-ep9.mp4",
           "popularity": 61
@@ -95,7 +95,7 @@
         {
           "episode": 10,
           "title": "Episode 10",
-          "thumbnail": "assets/thumbnails/naagini1-ep10.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep10.avif",
           "duration": "45:00",
           "video_url": "https://example.com/demo/naagini1-ep10.mp4",
           "popularity": 78
@@ -103,7 +103,7 @@
         {
           "episode": 11,
           "title": "Episode 11",
-          "thumbnail": "assets/thumbnails/naagini1-ep11.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep11.jpg",
           "duration": "44:15",
           "video_url": "https://example.com/demo/naagini1-ep11.mp4",
           "popularity": 95
@@ -111,7 +111,7 @@
         {
           "episode": 12,
           "title": "Episode 12",
-          "thumbnail": "assets/thumbnails/naagini1-ep12.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep12.avif",
           "duration": "44:30",
           "video_url": "https://example.com/demo/naagini1-ep12.mp4",
           "popularity": 12
@@ -119,7 +119,7 @@
         {
           "episode": 13,
           "title": "Episode 13",
-          "thumbnail": "assets/thumbnails/naagini1-ep13.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep13.avif",
           "duration": "38:35",
           "video_url": "https://example.com/demo/naagini1-ep13.mp4",
           "popularity": 29
@@ -127,7 +127,7 @@
         {
           "episode": 14,
           "title": "Episode 14",
-          "thumbnail": "assets/thumbnails/naagini1-ep14.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep14.webp",
           "duration": "45:20",
           "video_url": "https://example.com/demo/naagini1-ep14.mp4",
           "popularity": 46
@@ -135,7 +135,7 @@
         {
           "episode": 15,
           "title": "Episode 15",
-          "thumbnail": "assets/thumbnails/naagini1-ep15.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep15.avif",
           "duration": "20:10",
           "video_url": "https://example.com/demo/naagini1-ep15.mp4",
           "popularity": 63
@@ -143,7 +143,7 @@
         {
           "episode": 16,
           "title": "Episode 16",
-          "thumbnail": "assets/thumbnails/naagini1-ep16.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep16.avif",
           "duration": "42:25",
           "video_url": "https://example.com/demo/naagini1-ep16.mp4",
           "popularity": 80
@@ -151,7 +151,7 @@
         {
           "episode": 17,
           "title": "Episode 17",
-          "thumbnail": "assets/thumbnails/naagini1-ep17.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep17.jpg",
           "duration": "40:10",
           "video_url": "https://example.com/demo/naagini1-ep17.mp4",
           "popularity": 97
@@ -159,7 +159,7 @@
         {
           "episode": 18,
           "title": "Episode 18",
-          "thumbnail": "assets/thumbnails/naagini1-ep18.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep18.avif",
           "duration": "38:25",
           "video_url": "https://example.com/demo/naagini1-ep18.mp4",
           "popularity": 14
@@ -167,7 +167,7 @@
         {
           "episode": 19,
           "title": "Episode 19",
-          "thumbnail": "assets/thumbnails/naagini1-ep19.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep19.avif",
           "duration": "21:05",
           "video_url": "https://example.com/demo/naagini1-ep19.mp4",
           "popularity": 31
@@ -175,7 +175,7 @@
         {
           "episode": 20,
           "title": "Episode 20",
-          "thumbnail": "assets/thumbnails/naagini1-ep20.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep20.avif",
           "duration": "42:05",
           "video_url": "https://example.com/demo/naagini1-ep20.mp4",
           "popularity": 48
@@ -183,7 +183,7 @@
         {
           "episode": 21,
           "title": "Episode 21",
-          "thumbnail": "assets/thumbnails/naagini1-ep21.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep21.jpg",
           "duration": "41:25",
           "video_url": "https://example.com/demo/naagini1-ep21.mp4",
           "popularity": 65
@@ -191,7 +191,7 @@
         {
           "episode": 22,
           "title": "Episode 22",
-          "thumbnail": "assets/thumbnails/naagini1-ep22.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep22.avif",
           "duration": "45:20",
           "video_url": "https://example.com/demo/naagini1-ep22.mp4",
           "popularity": 82
@@ -199,7 +199,7 @@
         {
           "episode": 23,
           "title": "Episode 23",
-          "thumbnail": "assets/thumbnails/naagini1-ep23.jpg",
+          "thumbnail": "assets/thumbnails/Naagini1-Ep23.avif",
           "duration": "20:55",
           "video_url": "https://example.com/demo/naagini1-ep23.mp4",
           "popularity": 99
