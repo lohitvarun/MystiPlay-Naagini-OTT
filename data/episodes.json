@@ -13,8 +13,8 @@
       "title": "Naagini 1",
       "episode_count": 62,
       "description": "A mysterious supernatural saga filled with secrets, destiny and ancient powers.",
-      "poster": "assets/posters/naagini1.jpg",
-      "banner": "assets/banners/naagini1-banner.jpg",
+      "poster": "assets/posters/Naagini1-Poster.png",
+      "banner": "assets/banners/Naagini1-Cover.png",
       "cast": [
         "Cast Member 1",
         "Cast Member 2"
@@ -523,8 +523,8 @@
       "title": "Naagini 2",
       "episode_count": 72,
       "description": "A new chapter of mystery, supernatural forces and destiny.",
-      "poster": "assets/posters/naagini2.jpg",
-      "banner": "assets/banners/naagini2-banner.jpg",
+      "poster": "assets/posters/Naagini2-Poster.png",
+      "banner": "assets/banners/Naagini2-Cover.png",
       "cast": [
         "Cast Member 1",
         "Cast Member 2"
@@ -1113,8 +1113,8 @@
       "title": "Naagini 3",
       "episode_count": 205,
       "description": "An expansive supernatural saga of love, revenge, mystery and ancient powers.",
-      "poster": "assets/posters/naagini3.jpg",
-      "banner": "assets/banners/naagini3-banner.jpg",
+      "poster": "assets/posters/Naagini3-Poster.png",
+      "banner": "assets/banners/Naagini3-Cover.png",
       "cast": [
         "Cast Member 1",
         "Cast Member 2"
@@ -2767,8 +2767,8 @@
       "title": "Naagini 4",
       "episode_count": 30,
       "description": "A mysterious new chapter begins.",
-      "poster": "assets/posters/naagini4.jpg",
-      "banner": "assets/banners/naagini4-banner.jpg",
+      "poster": "assets/posters/Naagini4-Poster.png",
+      "banner": "assets/banners/Naagini4-Cover.png",
       "cast": [
         "Cast Member 1",
         "Cast Member 2"
@@ -3021,8 +3021,8 @@
       "title": "Naagini 7",
       "episode_count": 50,
       "description": "A dark new chapter filled with secrets, supernatural forces and destiny.",
-      "poster": "assets/posters/naagini7.jpg",
-      "banner": "assets/banners/Naagini7-Cover.jpg",
+      "poster": "assets/posters/Naagini7-Poster.png",
+      "banner": "assets/banners/Naagini7-Cover.png",
       "cast": [
         "Cast Member 1",
         "Cast Member 2"
@@ -3031,7 +3031,7 @@
         {
           "episode": 1,
           "title": "Episode 1",
-          "thumbnail": "assets/thumbnails/naagini7-ep1.jpg",
+          "thumbnail": "assets/thumbnails/Naagini7-Ep1.avif",
           "duration": "38:05",
           "video_url": "https://drive.google.com/file/d/1gVJbbZge_2XGvmRAIiAEk6wXvYbiRdtD/view?usp=sharing",
           "popularity": 25
@@ -3039,7 +3039,7 @@
         {
           "episode": 2,
           "title": "Episode 2",
-          "thumbnail": "assets/thumbnails/naagini7-ep2.jpg",
+          "thumbnail": "assets/thumbnails/Naagini7-Ep2.avif",
           "duration": "45:55",
           "video_url": "https://drive.google.com/file/d/1agIShIVCvKOWLNXu2CLJ_9Uzhqb-3svx/view?usp=sharing",
           "popularity": 42
