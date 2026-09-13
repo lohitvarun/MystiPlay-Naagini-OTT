@@ -1,0 +1,3434 @@
+{
+  "_readme": [
+    "DEMO VIDEO LINKS:",
+    "Replace ONLY the video_url values in this file with your actual video URLs.",
+    "Do not modify HTML or JavaScript \u2014 the player reads directly from this file.",
+    "Every episode's video_url currently points to a placeholder demo path.",
+    "Example: change 'https://example.com/demo/naagini3-ep87.mp4' to your real hosted URL.",
+    "This file (data/episodes.json) is the single source of truth for all season and episode metadata."
+  ],
+  "seasons": [
+    {
+      "id": "naagini-1",
+      "title": "Naagini 1",
+      "episode_count": 62,
+      "description": "A mysterious supernatural saga filled with secrets, destiny and ancient powers.",
+      "poster": "assets/posters/naagini1.jpg",
+      "banner": "assets/banners/naagini1-banner.jpg",
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2"
+      ],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Episode 1",
+          "thumbnail": "assets/thumbnails/naagini1-ep1.jpg",
+          "duration": "21:00",
+          "video_url": "https://example.com/demo/naagini1-ep1.mp4",
+          "popularity": 25
+        },
+        {
+          "episode": 2,
+          "title": "Episode 2",
+          "thumbnail": "assets/thumbnails/naagini1-ep2.jpg",
+          "duration": "40:15",
+          "video_url": "https://example.com/demo/naagini1-ep2.mp4",
+          "popularity": 42
+        },
+        {
+          "episode": 3,
+          "title": "Episode 3",
+          "thumbnail": "assets/thumbnails/naagini1-ep3.jpg",
+          "duration": "38:10",
+          "video_url": "https://example.com/demo/naagini1-ep3.mp4",
+          "popularity": 59
+        },
+        {
+          "episode": 4,
+          "title": "Episode 4",
+          "thumbnail": "assets/thumbnails/naagini1-ep4.jpg",
+          "duration": "21:50",
+          "video_url": "https://example.com/demo/naagini1-ep4.mp4",
+          "popularity": 76
+        },
+        {
+          "episode": 5,
+          "title": "Episode 5",
+          "thumbnail": "assets/thumbnails/naagini1-ep5.jpg",
+          "duration": "44:05",
+          "video_url": "https://example.com/demo/naagini1-ep5.mp4",
+          "popularity": 93
+        },
+        {
+          "episode": 6,
+          "title": "Episode 6",
+          "thumbnail": "assets/thumbnails/naagini1-ep6.jpg",
+          "duration": "45:30",
+          "video_url": "https://example.com/demo/naagini1-ep6.mp4",
+          "popularity": 10
+        },
+        {
+          "episode": 7,
+          "title": "Episode 7",
+          "thumbnail": "assets/thumbnails/naagini1-ep7.jpg",
+          "duration": "20:00",
+          "video_url": "https://example.com/demo/naagini1-ep7.mp4",
+          "popularity": 27
+        },
+        {
+          "episode": 8,
+          "title": "Episode 8",
+          "thumbnail": "assets/thumbnails/naagini1-ep8.jpg",
+          "duration": "21:15",
+          "video_url": "https://example.com/demo/naagini1-ep8.mp4",
+          "popularity": 44
+        },
+        {
+          "episode": 9,
+          "title": "Episode 9",
+          "thumbnail": "assets/thumbnails/naagini1-ep9.jpg",
+          "duration": "38:40",
+          "video_url": "https://example.com/demo/naagini1-ep9.mp4",
+          "popularity": 61
+        },
+        {
+          "episode": 10,
+          "title": "Episode 10",
+          "thumbnail": "assets/thumbnails/naagini1-ep10.jpg",
+          "duration": "45:00",
+          "video_url": "https://example.com/demo/naagini1-ep10.mp4",
+          "popularity": 78
+        },
+        {
+          "episode": 11,
+          "title": "Episode 11",
+          "thumbnail": "assets/thumbnails/naagini1-ep11.jpg",
+          "duration": "44:15",
+          "video_url": "https://example.com/demo/naagini1-ep11.mp4",
+          "popularity": 95
+        },
+        {
+          "episode": 12,
+          "title": "Episode 12",
+          "thumbnail": "assets/thumbnails/naagini1-ep12.jpg",
+          "duration": "44:30",
+          "video_url": "https://example.com/demo/naagini1-ep12.mp4",
+          "popularity": 12
+        },
+        {
+          "episode": 13,
+          "title": "Episode 13",
+          "thumbnail": "assets/thumbnails/naagini1-ep13.jpg",
+          "duration": "38:35",
+          "video_url": "https://example.com/demo/naagini1-ep13.mp4",
+          "popularity": 29
+        },
+        {
+          "episode": 14,
+          "title": "Episode 14",
+          "thumbnail": "assets/thumbnails/naagini1-ep14.jpg",
+          "duration": "45:20",
+          "video_url": "https://example.com/demo/naagini1-ep14.mp4",
+          "popularity": 46
+        },
+        {
+          "episode": 15,
+          "title": "Episode 15",
+          "thumbnail": "assets/thumbnails/naagini1-ep15.jpg",
+          "duration": "20:10",
+          "video_url": "https://example.com/demo/naagini1-ep15.mp4",
+          "popularity": 63
+        },
+        {
+          "episode": 16,
+          "title": "Episode 16",
+          "thumbnail": "assets/thumbnails/naagini1-ep16.jpg",
+          "duration": "42:25",
+          "video_url": "https://example.com/demo/naagini1-ep16.mp4",
+          "popularity": 80
+        },
+        {
+          "episode": 17,
+          "title": "Episode 17",
+          "thumbnail": "assets/thumbnails/naagini1-ep17.jpg",
+          "duration": "40:10",
+          "video_url": "https://example.com/demo/naagini1-ep17.mp4",
+          "popularity": 97
+        },
+        {
+          "episode": 18,
+          "title": "Episode 18",
+          "thumbnail": "assets/thumbnails/naagini1-ep18.jpg",
+          "duration": "38:25",
+          "video_url": "https://example.com/demo/naagini1-ep18.mp4",
+          "popularity": 14
+        },
+        {
+          "episode": 19,
+          "title": "Episode 19",
+          "thumbnail": "assets/thumbnails/naagini1-ep19.jpg",
+          "duration": "21:05",
+          "video_url": "https://example.com/demo/naagini1-ep19.mp4",
+          "popularity": 31
+        },
+        {
+          "episode": 20,
+          "title": "Episode 20",
+          "thumbnail": "assets/thumbnails/naagini1-ep20.jpg",
+          "duration": "42:05",
+          "video_url": "https://example.com/demo/naagini1-ep20.mp4",
+          "popularity": 48
+        },
+        {
+          "episode": 21,
+          "title": "Episode 21",
+          "thumbnail": "assets/thumbnails/naagini1-ep21.jpg",
+          "duration": "41:25",
+          "video_url": "https://example.com/demo/naagini1-ep21.mp4",
+          "popularity": 65
+        },
+        {
+          "episode": 22,
+          "title": "Episode 22",
+          "thumbnail": "assets/thumbnails/naagini1-ep22.jpg",
+          "duration": "45:20",
+          "video_url": "https://example.com/demo/naagini1-ep22.mp4",
+          "popularity": 82
+        },
+        {
+          "episode": 23,
+          "title": "Episode 23",
+          "thumbnail": "assets/thumbnails/naagini1-ep23.jpg",
+          "duration": "20:55",
+          "video_url": "https://example.com/demo/naagini1-ep23.mp4",
+          "popularity": 99
+        },
+        {
+          "episode": 24,
+          "title": "Episode 24",
+          "thumbnail": "assets/thumbnails/naagini1-ep24.jpg",
+          "duration": "43:40",
+          "video_url": "https://example.com/demo/naagini1-ep24.mp4",
+          "popularity": 16
+        },
+        {
+          "episode": 25,
+          "title": "Episode 25",
+          "thumbnail": "assets/thumbnails/naagini1-ep25.jpg",
+          "duration": "21:30",
+          "video_url": "https://example.com/demo/naagini1-ep25.mp4",
+          "popularity": 33
+        },
+        {
+          "episode": 26,
+          "title": "Episode 26",
+          "thumbnail": "assets/thumbnails/naagini1-ep26.jpg",
+          "duration": "21:40",
+          "video_url": "https://example.com/demo/naagini1-ep26.mp4",
+          "popularity": 50
+        },
+        {
+          "episode": 27,
+          "title": "Episode 27",
+          "thumbnail": "assets/thumbnails/naagini1-ep27.jpg",
+          "duration": "40:50",
+          "video_url": "https://example.com/demo/naagini1-ep27.mp4",
+          "popularity": 67
+        },
+        {
+          "episode": 28,
+          "title": "Episode 28",
+          "thumbnail": "assets/thumbnails/naagini1-ep28.jpg",
+          "duration": "45:25",
+          "video_url": "https://example.com/demo/naagini1-ep28.mp4",
+          "popularity": 84
+        },
+        {
+          "episode": 29,
+          "title": "Episode 29",
+          "thumbnail": "assets/thumbnails/naagini1-ep29.jpg",
+          "duration": "45:15",
+          "video_url": "https://example.com/demo/naagini1-ep29.mp4",
+          "popularity": 1
+        },
+        {
+          "episode": 30,
+          "title": "Episode 30",
+          "thumbnail": "assets/thumbnails/naagini1-ep30.jpg",
+          "duration": "21:00",
+          "video_url": "https://example.com/demo/naagini1-ep30.mp4",
+          "popularity": 18
+        },
+        {
+          "episode": 31,
+          "title": "Episode 31",
+          "thumbnail": "assets/thumbnails/naagini1-ep31.jpg",
+          "duration": "38:20",
+          "video_url": "https://example.com/demo/naagini1-ep31.mp4",
+          "popularity": 35
+        },
+        {
+          "episode": 32,
+          "title": "Episode 32",
+          "thumbnail": "assets/thumbnails/naagini1-ep32.jpg",
+          "duration": "21:15",
+          "video_url": "https://example.com/demo/naagini1-ep32.mp4",
+          "popularity": 52
+        },
+        {
+          "episode": 33,
+          "title": "Episode 33",
+          "thumbnail": "assets/thumbnails/naagini1-ep33.jpg",
+          "duration": "21:30",
+          "video_url": "https://example.com/demo/naagini1-ep33.mp4",
+          "popularity": 69
+        },
+        {
+          "episode": 34,
+          "title": "Episode 34",
+          "thumbnail": "assets/thumbnails/naagini1-ep34.jpg",
+          "duration": "40:35",
+          "video_url": "https://example.com/demo/naagini1-ep34.mp4",
+          "popularity": 86
+        },
+        {
+          "episode": 35,
+          "title": "Episode 35",
+          "thumbnail": "assets/thumbnails/naagini1-ep35.jpg",
+          "duration": "41:10",
+          "video_url": "https://example.com/demo/naagini1-ep35.mp4",
+          "popularity": 3
+        },
+        {
+          "episode": 36,
+          "title": "Episode 36",
+          "thumbnail": "assets/thumbnails/naagini1-ep36.jpg",
+          "duration": "41:25",
+          "video_url": "https://example.com/demo/naagini1-ep36.mp4",
+          "popularity": 20
+        },
+        {
+          "episode": 37,
+          "title": "Episode 37",
+          "thumbnail": "assets/thumbnails/naagini1-ep37.jpg",
+          "duration": "38:50",
+          "video_url": "https://example.com/demo/naagini1-ep37.mp4",
+          "popularity": 37
+        },
+        {
+          "episode": 38,
+          "title": "Episode 38",
+          "thumbnail": "assets/thumbnails/naagini1-ep38.jpg",
+          "duration": "40:55",
+          "video_url": "https://example.com/demo/naagini1-ep38.mp4",
+          "popularity": 54
+        },
+        {
+          "episode": 39,
+          "title": "Episode 39",
+          "thumbnail": "assets/thumbnails/naagini1-ep39.jpg",
+          "duration": "21:45",
+          "video_url": "https://example.com/demo/naagini1-ep39.mp4",
+          "popularity": 71
+        },
+        {
+          "episode": 40,
+          "title": "Episode 40",
+          "thumbnail": "assets/thumbnails/naagini1-ep40.jpg",
+          "duration": "22:40",
+          "video_url": "https://example.com/demo/naagini1-ep40.mp4",
+          "popularity": 88
+        },
+        {
+          "episode": 41,
+          "title": "Episode 41",
+          "thumbnail": "assets/thumbnails/naagini1-ep41.jpg",
+          "duration": "38:10",
+          "video_url": "https://example.com/demo/naagini1-ep41.mp4",
+          "popularity": 5
+        },
+        {
+          "episode": 42,
+          "title": "Episode 42",
+          "thumbnail": "assets/thumbnails/naagini1-ep42.jpg",
+          "duration": "43:30",
+          "video_url": "https://example.com/demo/naagini1-ep42.mp4",
+          "popularity": 22
+        },
+        {
+          "episode": 43,
+          "title": "Episode 43",
+          "thumbnail": "assets/thumbnails/naagini1-ep43.jpg",
+          "duration": "40:50",
+          "video_url": "https://example.com/demo/naagini1-ep43.mp4",
+          "popularity": 39
+        },
+        {
+          "episode": 44,
+          "title": "Episode 44",
+          "thumbnail": "assets/thumbnails/naagini1-ep44.jpg",
+          "duration": "44:15",
+          "video_url": "https://example.com/demo/naagini1-ep44.mp4",
+          "popularity": 56
+        },
+        {
+          "episode": 45,
+          "title": "Episode 45",
+          "thumbnail": "assets/thumbnails/naagini1-ep45.jpg",
+          "duration": "41:00",
+          "video_url": "https://example.com/demo/naagini1-ep45.mp4",
+          "popularity": 73
+        },
+        {
+          "episode": 46,
+          "title": "Episode 46",
+          "thumbnail": "assets/thumbnails/naagini1-ep46.jpg",
+          "duration": "38:00",
+          "video_url": "https://example.com/demo/naagini1-ep46.mp4",
+          "popularity": 90
+        },
+        {
+          "episode": 47,
+          "title": "Episode 47",
+          "thumbnail": "assets/thumbnails/naagini1-ep47.jpg",
+          "duration": "41:30",
+          "video_url": "https://example.com/demo/naagini1-ep47.mp4",
+          "popularity": 7
+        },
+        {
+          "episode": 48,
+          "title": "Episode 48",
+          "thumbnail": "assets/thumbnails/naagini1-ep48.jpg",
+          "duration": "40:05",
+          "video_url": "https://example.com/demo/naagini1-ep48.mp4",
+          "popularity": 24
+        },
+        {
+          "episode": 49,
+          "title": "Episode 49",
+          "thumbnail": "assets/thumbnails/naagini1-ep49.jpg",
+          "duration": "38:45",
+          "video_url": "https://example.com/demo/naagini1-ep49.mp4",
+          "popularity": 41
+        },
+        {
+          "episode": 50,
+          "title": "Episode 50",
+          "thumbnail": "assets/thumbnails/naagini1-ep50.jpg",
+          "duration": "41:15",
+          "video_url": "https://example.com/demo/naagini1-ep50.mp4",
+          "popularity": 58
+        },
+        {
+          "episode": 51,
+          "title": "Episode 51",
+          "thumbnail": "assets/thumbnails/naagini1-ep51.jpg",
+          "duration": "43:30",
+          "video_url": "https://example.com/demo/naagini1-ep51.mp4",
+          "popularity": 75
+        },
+        {
+          "episode": 52,
+          "title": "Episode 52",
+          "thumbnail": "assets/thumbnails/naagini1-ep52.jpg",
+          "duration": "43:10",
+          "video_url": "https://example.com/demo/naagini1-ep52.mp4",
+          "popularity": 92
+        },
+        {
+          "episode": 53,
+          "title": "Episode 53",
+          "thumbnail": "assets/thumbnails/naagini1-ep53.jpg",
+          "duration": "40:10",
+          "video_url": "https://example.com/demo/naagini1-ep53.mp4",
+          "popularity": 9
+        },
+        {
+          "episode": 54,
+          "title": "Episode 54",
+          "thumbnail": "assets/thumbnails/naagini1-ep54.jpg",
+          "duration": "38:55",
+          "video_url": "https://example.com/demo/naagini1-ep54.mp4",
+          "popularity": 26
+        },
+        {
+          "episode": 55,
+          "title": "Episode 55",
+          "thumbnail": "assets/thumbnails/naagini1-ep55.jpg",
+          "duration": "44:40",
+          "video_url": "https://example.com/demo/naagini1-ep55.mp4",
+          "popularity": 43
+        },
+        {
+          "episode": 56,
+          "title": "Episode 56",
+          "thumbnail": "assets/thumbnails/naagini1-ep56.jpg",
+          "duration": "40:55",
+          "video_url": "https://example.com/demo/naagini1-ep56.mp4",
+          "popularity": 60
+        },
+        {
+          "episode": 57,
+          "title": "Episode 57",
+          "thumbnail": "assets/thumbnails/naagini1-ep57.jpg",
+          "duration": "45:30",
+          "video_url": "https://example.com/demo/naagini1-ep57.mp4",
+          "popularity": 77
+        },
+        {
+          "episode": 58,
+          "title": "Episode 58",
+          "thumbnail": "assets/thumbnails/naagini1-ep58.jpg",
+          "duration": "45:30",
+          "video_url": "https://example.com/demo/naagini1-ep58.mp4",
+          "popularity": 94
+        },
+        {
+          "episode": 59,
+          "title": "Episode 59",
+          "thumbnail": "assets/thumbnails/naagini1-ep59.jpg",
+          "duration": "41:15",
+          "video_url": "https://example.com/demo/naagini1-ep59.mp4",
+          "popularity": 11
+        },
+        {
+          "episode": 60,
+          "title": "Episode 60",
+          "thumbnail": "assets/thumbnails/naagini1-ep60.jpg",
+          "duration": "22:40",
+          "video_url": "https://example.com/demo/naagini1-ep60.mp4",
+          "popularity": 28
+        },
+        {
+          "episode": 61,
+          "title": "Episode 61",
+          "thumbnail": "assets/thumbnails/naagini1-ep61.jpg",
+          "duration": "43:05",
+          "video_url": "https://example.com/demo/naagini1-ep61.mp4",
+          "popularity": 45
+        },
+        {
+          "episode": 62,
+          "title": "Episode 62",
+          "thumbnail": "assets/thumbnails/naagini1-ep62.jpg",
+          "duration": "20:05",
+          "video_url": "https://example.com/demo/naagini1-ep62.mp4",
+          "popularity": 62
+        }
+      ]
+    },
+    {
+      "id": "naagini-2",
+      "title": "Naagini 2",
+      "episode_count": 72,
+      "description": "A new chapter of mystery, supernatural forces and destiny.",
+      "poster": "assets/posters/naagini2.jpg",
+      "banner": "assets/banners/naagini2-banner.jpg",
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2"
+      ],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Episode 1",
+          "thumbnail": "assets/thumbnails/naagini2-ep1.jpg",
+          "duration": "22:50",
+          "video_url": "https://example.com/demo/naagini2-ep1.mp4",
+          "popularity": 25
+        },
+        {
+          "episode": 2,
+          "title": "Episode 2",
+          "thumbnail": "assets/thumbnails/naagini2-ep2.jpg",
+          "duration": "22:50",
+          "video_url": "https://example.com/demo/naagini2-ep2.mp4",
+          "popularity": 42
+        },
+        {
+          "episode": 3,
+          "title": "Episode 3",
+          "thumbnail": "assets/thumbnails/naagini2-ep3.jpg",
+          "duration": "42:45",
+          "video_url": "https://example.com/demo/naagini2-ep3.mp4",
+          "popularity": 59
+        },
+        {
+          "episode": 4,
+          "title": "Episode 4",
+          "thumbnail": "assets/thumbnails/naagini2-ep4.jpg",
+          "duration": "21:30",
+          "video_url": "https://example.com/demo/naagini2-ep4.mp4",
+          "popularity": 76
+        },
+        {
+          "episode": 5,
+          "title": "Episode 5",
+          "thumbnail": "assets/thumbnails/naagini2-ep5.jpg",
+          "duration": "42:45",
+          "video_url": "https://example.com/demo/naagini2-ep5.mp4",
+          "popularity": 93
+        },
+        {
+          "episode": 6,
+          "title": "Episode 6",
+          "thumbnail": "assets/thumbnails/naagini2-ep6.jpg",
+          "duration": "43:40",
+          "video_url": "https://example.com/demo/naagini2-ep6.mp4",
+          "popularity": 10
+        },
+        {
+          "episode": 7,
+          "title": "Episode 7",
+          "thumbnail": "assets/thumbnails/naagini2-ep7.jpg",
+          "duration": "40:40",
+          "video_url": "https://example.com/demo/naagini2-ep7.mp4",
+          "popularity": 27
+        },
+        {
+          "episode": 8,
+          "title": "Episode 8",
+          "thumbnail": "assets/thumbnails/naagini2-ep8.jpg",
+          "duration": "20:50",
+          "video_url": "https://example.com/demo/naagini2-ep8.mp4",
+          "popularity": 44
+        },
+        {
+          "episode": 9,
+          "title": "Episode 9",
+          "thumbnail": "assets/thumbnails/naagini2-ep9.jpg",
+          "duration": "21:50",
+          "video_url": "https://example.com/demo/naagini2-ep9.mp4",
+          "popularity": 61
+        },
+        {
+          "episode": 10,
+          "title": "Episode 10",
+          "thumbnail": "assets/thumbnails/naagini2-ep10.jpg",
+          "duration": "44:20",
+          "video_url": "https://example.com/demo/naagini2-ep10.mp4",
+          "popularity": 78
+        },
+        {
+          "episode": 11,
+          "title": "Episode 11",
+          "thumbnail": "assets/thumbnails/naagini2-ep11.jpg",
+          "duration": "41:05",
+          "video_url": "https://example.com/demo/naagini2-ep11.mp4",
+          "popularity": 95
+        },
+        {
+          "episode": 12,
+          "title": "Episode 12",
+          "thumbnail": "assets/thumbnails/naagini2-ep12.jpg",
+          "duration": "40:30",
+          "video_url": "https://example.com/demo/naagini2-ep12.mp4",
+          "popularity": 12
+        },
+        {
+          "episode": 13,
+          "title": "Episode 13",
+          "thumbnail": "assets/thumbnails/naagini2-ep13.jpg",
+          "duration": "22:35",
+          "video_url": "https://example.com/demo/naagini2-ep13.mp4",
+          "popularity": 29
+        },
+        {
+          "episode": 14,
+          "title": "Episode 14",
+          "thumbnail": "assets/thumbnails/naagini2-ep14.jpg",
+          "duration": "20:55",
+          "video_url": "https://example.com/demo/naagini2-ep14.mp4",
+          "popularity": 46
+        },
+        {
+          "episode": 15,
+          "title": "Episode 15",
+          "thumbnail": "assets/thumbnails/naagini2-ep15.jpg",
+          "duration": "40:40",
+          "video_url": "https://example.com/demo/naagini2-ep15.mp4",
+          "popularity": 63
+        },
+        {
+          "episode": 16,
+          "title": "Episode 16",
+          "thumbnail": "assets/thumbnails/naagini2-ep16.jpg",
+          "duration": "22:40",
+          "video_url": "https://example.com/demo/naagini2-ep16.mp4",
+          "popularity": 80
+        },
+        {
+          "episode": 17,
+          "title": "Episode 17",
+          "thumbnail": "assets/thumbnails/naagini2-ep17.jpg",
+          "duration": "21:50",
+          "video_url": "https://example.com/demo/naagini2-ep17.mp4",
+          "popularity": 97
+        },
+        {
+          "episode": 18,
+          "title": "Episode 18",
+          "thumbnail": "assets/thumbnails/naagini2-ep18.jpg",
+          "duration": "40:50",
+          "video_url": "https://example.com/demo/naagini2-ep18.mp4",
+          "popularity": 14
+        },
+        {
+          "episode": 19,
+          "title": "Episode 19",
+          "thumbnail": "assets/thumbnails/naagini2-ep19.jpg",
+          "duration": "44:45",
+          "video_url": "https://example.com/demo/naagini2-ep19.mp4",
+          "popularity": 31
+        },
+        {
+          "episode": 20,
+          "title": "Episode 20",
+          "thumbnail": "assets/thumbnails/naagini2-ep20.jpg",
+          "duration": "38:10",
+          "video_url": "https://example.com/demo/naagini2-ep20.mp4",
+          "popularity": 48
+        },
+        {
+          "episode": 21,
+          "title": "Episode 21",
+          "thumbnail": "assets/thumbnails/naagini2-ep21.jpg",
+          "duration": "41:10",
+          "video_url": "https://example.com/demo/naagini2-ep21.mp4",
+          "popularity": 65
+        },
+        {
+          "episode": 22,
+          "title": "Episode 22",
+          "thumbnail": "assets/thumbnails/naagini2-ep22.jpg",
+          "duration": "44:40",
+          "video_url": "https://example.com/demo/naagini2-ep22.mp4",
+          "popularity": 82
+        },
+        {
+          "episode": 23,
+          "title": "Episode 23",
+          "thumbnail": "assets/thumbnails/naagini2-ep23.jpg",
+          "duration": "20:45",
+          "video_url": "https://example.com/demo/naagini2-ep23.mp4",
+          "popularity": 99
+        },
+        {
+          "episode": 24,
+          "title": "Episode 24",
+          "thumbnail": "assets/thumbnails/naagini2-ep24.jpg",
+          "duration": "41:35",
+          "video_url": "https://example.com/demo/naagini2-ep24.mp4",
+          "popularity": 16
+        },
+        {
+          "episode": 25,
+          "title": "Episode 25",
+          "thumbnail": "assets/thumbnails/naagini2-ep25.jpg",
+          "duration": "20:05",
+          "video_url": "https://example.com/demo/naagini2-ep25.mp4",
+          "popularity": 33
+        },
+        {
+          "episode": 26,
+          "title": "Episode 26",
+          "thumbnail": "assets/thumbnails/naagini2-ep26.jpg",
+          "duration": "41:20",
+          "video_url": "https://example.com/demo/naagini2-ep26.mp4",
+          "popularity": 50
+        },
+        {
+          "episode": 27,
+          "title": "Episode 27",
+          "thumbnail": "assets/thumbnails/naagini2-ep27.jpg",
+          "duration": "38:00",
+          "video_url": "https://example.com/demo/naagini2-ep27.mp4",
+          "popularity": 67
+        },
+        {
+          "episode": 28,
+          "title": "Episode 28",
+          "thumbnail": "assets/thumbnails/naagini2-ep28.jpg",
+          "duration": "38:45",
+          "video_url": "https://example.com/demo/naagini2-ep28.mp4",
+          "popularity": 84
+        },
+        {
+          "episode": 29,
+          "title": "Episode 29",
+          "thumbnail": "assets/thumbnails/naagini2-ep29.jpg",
+          "duration": "21:05",
+          "video_url": "https://example.com/demo/naagini2-ep29.mp4",
+          "popularity": 1
+        },
+        {
+          "episode": 30,
+          "title": "Episode 30",
+          "thumbnail": "assets/thumbnails/naagini2-ep30.jpg",
+          "duration": "43:05",
+          "video_url": "https://example.com/demo/naagini2-ep30.mp4",
+          "popularity": 18
+        },
+        {
+          "episode": 31,
+          "title": "Episode 31",
+          "thumbnail": "assets/thumbnails/naagini2-ep31.jpg",
+          "duration": "44:10",
+          "video_url": "https://example.com/demo/naagini2-ep31.mp4",
+          "popularity": 35
+        },
+        {
+          "episode": 32,
+          "title": "Episode 32",
+          "thumbnail": "assets/thumbnails/naagini2-ep32.jpg",
+          "duration": "22:50",
+          "video_url": "https://example.com/demo/naagini2-ep32.mp4",
+          "popularity": 52
+        },
+        {
+          "episode": 33,
+          "title": "Episode 33",
+          "thumbnail": "assets/thumbnails/naagini2-ep33.jpg",
+          "duration": "43:40",
+          "video_url": "https://example.com/demo/naagini2-ep33.mp4",
+          "popularity": 69
+        },
+        {
+          "episode": 34,
+          "title": "Episode 34",
+          "thumbnail": "assets/thumbnails/naagini2-ep34.jpg",
+          "duration": "22:20",
+          "video_url": "https://example.com/demo/naagini2-ep34.mp4",
+          "popularity": 86
+        },
+        {
+          "episode": 35,
+          "title": "Episode 35",
+          "thumbnail": "assets/thumbnails/naagini2-ep35.jpg",
+          "duration": "44:45",
+          "video_url": "https://example.com/demo/naagini2-ep35.mp4",
+          "popularity": 3
+        },
+        {
+          "episode": 36,
+          "title": "Episode 36",
+          "thumbnail": "assets/thumbnails/naagini2-ep36.jpg",
+          "duration": "42:15",
+          "video_url": "https://example.com/demo/naagini2-ep36.mp4",
+          "popularity": 20
+        },
+        {
+          "episode": 37,
+          "title": "Episode 37",
+          "thumbnail": "assets/thumbnails/naagini2-ep37.jpg",
+          "duration": "44:55",
+          "video_url": "https://example.com/demo/naagini2-ep37.mp4",
+          "popularity": 37
+        },
+        {
+          "episode": 38,
+          "title": "Episode 38",
+          "thumbnail": "assets/thumbnails/naagini2-ep38.jpg",
+          "duration": "38:55",
+          "video_url": "https://example.com/demo/naagini2-ep38.mp4",
+          "popularity": 54
+        },
+        {
+          "episode": 39,
+          "title": "Episode 39",
+          "thumbnail": "assets/thumbnails/naagini2-ep39.jpg",
+          "duration": "40:30",
+          "video_url": "https://example.com/demo/naagini2-ep39.mp4",
+          "popularity": 71
+        },
+        {
+          "episode": 40,
+          "title": "Episode 40",
+          "thumbnail": "assets/thumbnails/naagini2-ep40.jpg",
+          "duration": "41:35",
+          "video_url": "https://example.com/demo/naagini2-ep40.mp4",
+          "popularity": 88
+        },
+        {
+          "episode": 41,
+          "title": "Episode 41",
+          "thumbnail": "assets/thumbnails/naagini2-ep41.jpg",
+          "duration": "44:35",
+          "video_url": "https://example.com/demo/naagini2-ep41.mp4",
+          "popularity": 5
+        },
+        {
+          "episode": 42,
+          "title": "Episode 42",
+          "thumbnail": "assets/thumbnails/naagini2-ep42.jpg",
+          "duration": "21:15",
+          "video_url": "https://example.com/demo/naagini2-ep42.mp4",
+          "popularity": 22
+        },
+        {
+          "episode": 43,
+          "title": "Episode 43",
+          "thumbnail": "assets/thumbnails/naagini2-ep43.jpg",
+          "duration": "38:05",
+          "video_url": "https://example.com/demo/naagini2-ep43.mp4",
+          "popularity": 39
+        },
+        {
+          "episode": 44,
+          "title": "Episode 44",
+          "thumbnail": "assets/thumbnails/naagini2-ep44.jpg",
+          "duration": "41:00",
+          "video_url": "https://example.com/demo/naagini2-ep44.mp4",
+          "popularity": 56
+        },
+        {
+          "episode": 45,
+          "title": "Episode 45",
+          "thumbnail": "assets/thumbnails/naagini2-ep45.jpg",
+          "duration": "45:40",
+          "video_url": "https://example.com/demo/naagini2-ep45.mp4",
+          "popularity": 73
+        },
+        {
+          "episode": 46,
+          "title": "Episode 46",
+          "thumbnail": "assets/thumbnails/naagini2-ep46.jpg",
+          "duration": "38:45",
+          "video_url": "https://example.com/demo/naagini2-ep46.mp4",
+          "popularity": 90
+        },
+        {
+          "episode": 47,
+          "title": "Episode 47",
+          "thumbnail": "assets/thumbnails/naagini2-ep47.jpg",
+          "duration": "38:00",
+          "video_url": "https://example.com/demo/naagini2-ep47.mp4",
+          "popularity": 7
+        },
+        {
+          "episode": 48,
+          "title": "Episode 48",
+          "thumbnail": "assets/thumbnails/naagini2-ep48.jpg",
+          "duration": "21:55",
+          "video_url": "https://example.com/demo/naagini2-ep48.mp4",
+          "popularity": 24
+        },
+        {
+          "episode": 49,
+          "title": "Episode 49",
+          "thumbnail": "assets/thumbnails/naagini2-ep49.jpg",
+          "duration": "20:15",
+          "video_url": "https://example.com/demo/naagini2-ep49.mp4",
+          "popularity": 41
+        },
+        {
+          "episode": 50,
+          "title": "Episode 50",
+          "thumbnail": "assets/thumbnails/naagini2-ep50.jpg",
+          "duration": "21:00",
+          "video_url": "https://example.com/demo/naagini2-ep50.mp4",
+          "popularity": 58
+        },
+        {
+          "episode": 51,
+          "title": "Episode 51",
+          "thumbnail": "assets/thumbnails/naagini2-ep51.jpg",
+          "duration": "41:05",
+          "video_url": "https://example.com/demo/naagini2-ep51.mp4",
+          "popularity": 75
+        },
+        {
+          "episode": 52,
+          "title": "Episode 52",
+          "thumbnail": "assets/thumbnails/naagini2-ep52.jpg",
+          "duration": "44:15",
+          "video_url": "https://example.com/demo/naagini2-ep52.mp4",
+          "popularity": 92
+        },
+        {
+          "episode": 53,
+          "title": "Episode 53",
+          "thumbnail": "assets/thumbnails/naagini2-ep53.jpg",
+          "duration": "40:50",
+          "video_url": "https://example.com/demo/naagini2-ep53.mp4",
+          "popularity": 9
+        },
+        {
+          "episode": 54,
+          "title": "Episode 54",
+          "thumbnail": "assets/thumbnails/naagini2-ep54.jpg",
+          "duration": "43:15",
+          "video_url": "https://example.com/demo/naagini2-ep54.mp4",
+          "popularity": 26
+        },
+        {
+          "episode": 55,
+          "title": "Episode 55",
+          "thumbnail": "assets/thumbnails/naagini2-ep55.jpg",
+          "duration": "44:10",
+          "video_url": "https://example.com/demo/naagini2-ep55.mp4",
+          "popularity": 43
+        },
+        {
+          "episode": 56,
+          "title": "Episode 56",
+          "thumbnail": "assets/thumbnails/naagini2-ep56.jpg",
+          "duration": "45:45",
+          "video_url": "https://example.com/demo/naagini2-ep56.mp4",
+          "popularity": 60
+        },
+        {
+          "episode": 57,
+          "title": "Episode 57",
+          "thumbnail": "assets/thumbnails/naagini2-ep57.jpg",
+          "duration": "43:15",
+          "video_url": "https://example.com/demo/naagini2-ep57.mp4",
+          "popularity": 77
+        },
+        {
+          "episode": 58,
+          "title": "Episode 58",
+          "thumbnail": "assets/thumbnails/naagini2-ep58.jpg",
+          "duration": "43:30",
+          "video_url": "https://example.com/demo/naagini2-ep58.mp4",
+          "popularity": 94
+        },
+        {
+          "episode": 59,
+          "title": "Episode 59",
+          "thumbnail": "assets/thumbnails/naagini2-ep59.jpg",
+          "duration": "38:05",
+          "video_url": "https://example.com/demo/naagini2-ep59.mp4",
+          "popularity": 11
+        },
+        {
+          "episode": 60,
+          "title": "Episode 60",
+          "thumbnail": "assets/thumbnails/naagini2-ep60.jpg",
+          "duration": "21:50",
+          "video_url": "https://example.com/demo/naagini2-ep60.mp4",
+          "popularity": 28
+        },
+        {
+          "episode": 61,
+          "title": "Episode 61",
+          "thumbnail": "assets/thumbnails/naagini2-ep61.jpg",
+          "duration": "42:25",
+          "video_url": "https://example.com/demo/naagini2-ep61.mp4",
+          "popularity": 45
+        },
+        {
+          "episode": 62,
+          "title": "Episode 62",
+          "thumbnail": "assets/thumbnails/naagini2-ep62.jpg",
+          "duration": "42:30",
+          "video_url": "https://example.com/demo/naagini2-ep62.mp4",
+          "popularity": 62
+        },
+        {
+          "episode": 63,
+          "title": "Episode 63",
+          "thumbnail": "assets/thumbnails/naagini2-ep63.jpg",
+          "duration": "43:55",
+          "video_url": "https://example.com/demo/naagini2-ep63.mp4",
+          "popularity": 79
+        },
+        {
+          "episode": 64,
+          "title": "Episode 64",
+          "thumbnail": "assets/thumbnails/naagini2-ep64.jpg",
+          "duration": "20:50",
+          "video_url": "https://example.com/demo/naagini2-ep64.mp4",
+          "popularity": 96
+        },
+        {
+          "episode": 65,
+          "title": "Episode 65",
+          "thumbnail": "assets/thumbnails/naagini2-ep65.jpg",
+          "duration": "21:00",
+          "video_url": "https://example.com/demo/naagini2-ep65.mp4",
+          "popularity": 13
+        },
+        {
+          "episode": 66,
+          "title": "Episode 66",
+          "thumbnail": "assets/thumbnails/naagini2-ep66.jpg",
+          "duration": "42:55",
+          "video_url": "https://example.com/demo/naagini2-ep66.mp4",
+          "popularity": 30
+        },
+        {
+          "episode": 67,
+          "title": "Episode 67",
+          "thumbnail": "assets/thumbnails/naagini2-ep67.jpg",
+          "duration": "41:05",
+          "video_url": "https://example.com/demo/naagini2-ep67.mp4",
+          "popularity": 47
+        },
+        {
+          "episode": 68,
+          "title": "Episode 68",
+          "thumbnail": "assets/thumbnails/naagini2-ep68.jpg",
+          "duration": "38:15",
+          "video_url": "https://example.com/demo/naagini2-ep68.mp4",
+          "popularity": 64
+        },
+        {
+          "episode": 69,
+          "title": "Episode 69",
+          "thumbnail": "assets/thumbnails/naagini2-ep69.jpg",
+          "duration": "38:40",
+          "video_url": "https://example.com/demo/naagini2-ep69.mp4",
+          "popularity": 81
+        },
+        {
+          "episode": 70,
+          "title": "Episode 70",
+          "thumbnail": "assets/thumbnails/naagini2-ep70.jpg",
+          "duration": "43:10",
+          "video_url": "https://example.com/demo/naagini2-ep70.mp4",
+          "popularity": 98
+        },
+        {
+          "episode": 71,
+          "title": "Episode 71",
+          "thumbnail": "assets/thumbnails/naagini2-ep71.jpg",
+          "duration": "42:10",
+          "video_url": "https://example.com/demo/naagini2-ep71.mp4",
+          "popularity": 15
+        },
+        {
+          "episode": 72,
+          "title": "Episode 72",
+          "thumbnail": "assets/thumbnails/naagini2-ep72.jpg",
+          "duration": "40:35",
+          "video_url": "https://example.com/demo/naagini2-ep72.mp4",
+          "popularity": 32
+        }
+      ]
+    },
+    {
+      "id": "naagini-3",
+      "title": "Naagini 3",
+      "episode_count": 205,
+      "description": "An expansive supernatural saga of love, revenge, mystery and ancient powers.",
+      "poster": "assets/posters/naagini3.jpg",
+      "banner": "assets/banners/naagini3-banner.jpg",
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2"
+      ],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Episode 1",
+          "thumbnail": "assets/thumbnails/naagini3-ep1.jpg",
+          "duration": "38:05",
+          "video_url": "https://example.com/demo/naagini3-ep1.mp4",
+          "popularity": 25
+        },
+        {
+          "episode": 2,
+          "title": "Episode 2",
+          "thumbnail": "assets/thumbnails/naagini3-ep2.jpg",
+          "duration": "43:40",
+          "video_url": "https://example.com/demo/naagini3-ep2.mp4",
+          "popularity": 42
+        },
+        {
+          "episode": 3,
+          "title": "Episode 3",
+          "thumbnail": "assets/thumbnails/naagini3-ep3.jpg",
+          "duration": "21:00",
+          "video_url": "https://example.com/demo/naagini3-ep3.mp4",
+          "popularity": 59
+        },
+        {
+          "episode": 4,
+          "title": "Episode 4",
+          "thumbnail": "assets/thumbnails/naagini3-ep4.jpg",
+          "duration": "44:00",
+          "video_url": "https://example.com/demo/naagini3-ep4.mp4",
+          "popularity": 76
+        },
+        {
+          "episode": 5,
+          "title": "Episode 5",
+          "thumbnail": "assets/thumbnails/naagini3-ep5.jpg",
+          "duration": "21:15",
+          "video_url": "https://example.com/demo/naagini3-ep5.mp4",
+          "popularity": 93
+        },
+        {
+          "episode": 6,
+          "title": "Episode 6",
+          "thumbnail": "assets/thumbnails/naagini3-ep6.jpg",
+          "duration": "22:30",
+          "video_url": "https://example.com/demo/naagini3-ep6.mp4",
+          "popularity": 10
+        },
+        {
+          "episode": 7,
+          "title": "Episode 7",
+          "thumbnail": "assets/thumbnails/naagini3-ep7.jpg",
+          "duration": "43:35",
+          "video_url": "https://example.com/demo/naagini3-ep7.mp4",
+          "popularity": 27
+        },
+        {
+          "episode": 8,
+          "title": "Episode 8",
+          "thumbnail": "assets/thumbnails/naagini3-ep8.jpg",
+          "duration": "38:30",
+          "video_url": "https://example.com/demo/naagini3-ep8.mp4",
+          "popularity": 44
+        },
+        {
+          "episode": 9,
+          "title": "Episode 9",
+          "thumbnail": "assets/thumbnails/naagini3-ep9.jpg",
+          "duration": "20:10",
+          "video_url": "https://example.com/demo/naagini3-ep9.mp4",
+          "popularity": 61
+        },
+        {
+          "episode": 10,
+          "title": "Episode 10",
+          "thumbnail": "assets/thumbnails/naagini3-ep10.jpg",
+          "duration": "42:00",
+          "video_url": "https://example.com/demo/naagini3-ep10.mp4",
+          "popularity": 78
+        },
+        {
+          "episode": 11,
+          "title": "Episode 11",
+          "thumbnail": "assets/thumbnails/naagini3-ep11.jpg",
+          "duration": "42:20",
+          "video_url": "https://example.com/demo/naagini3-ep11.mp4",
+          "popularity": 95
+        },
+        {
+          "episode": 12,
+          "title": "Episode 12",
+          "thumbnail": "assets/thumbnails/naagini3-ep12.jpg",
+          "duration": "43:20",
+          "video_url": "https://example.com/demo/naagini3-ep12.mp4",
+          "popularity": 12
+        },
+        {
+          "episode": 13,
+          "title": "Episode 13",
+          "thumbnail": "assets/thumbnails/naagini3-ep13.jpg",
+          "duration": "42:55",
+          "video_url": "https://example.com/demo/naagini3-ep13.mp4",
+          "popularity": 29
+        },
+        {
+          "episode": 14,
+          "title": "Episode 14",
+          "thumbnail": "assets/thumbnails/naagini3-ep14.jpg",
+          "duration": "44:50",
+          "video_url": "https://example.com/demo/naagini3-ep14.mp4",
+          "popularity": 46
+        },
+        {
+          "episode": 15,
+          "title": "Episode 15",
+          "thumbnail": "assets/thumbnails/naagini3-ep15.jpg",
+          "duration": "43:10",
+          "video_url": "https://example.com/demo/naagini3-ep15.mp4",
+          "popularity": 63
+        },
+        {
+          "episode": 16,
+          "title": "Episode 16",
+          "thumbnail": "assets/thumbnails/naagini3-ep16.jpg",
+          "duration": "38:20",
+          "video_url": "https://example.com/demo/naagini3-ep16.mp4",
+          "popularity": 80
+        },
+        {
+          "episode": 17,
+          "title": "Episode 17",
+          "thumbnail": "assets/thumbnails/naagini3-ep17.jpg",
+          "duration": "38:00",
+          "video_url": "https://example.com/demo/naagini3-ep17.mp4",
+          "popularity": 97
+        },
+        {
+          "episode": 18,
+          "title": "Episode 18",
+          "thumbnail": "assets/thumbnails/naagini3-ep18.jpg",
+          "duration": "45:55",
+          "video_url": "https://example.com/demo/naagini3-ep18.mp4",
+          "popularity": 14
+        },
+        {
+          "episode": 19,
+          "title": "Episode 19",
+          "thumbnail": "assets/thumbnails/naagini3-ep19.jpg",
+          "duration": "44:00",
+          "video_url": "https://example.com/demo/naagini3-ep19.mp4",
+          "popularity": 31
+        },
+        {
+          "episode": 20,
+          "title": "Episode 20",
+          "thumbnail": "assets/thumbnails/naagini3-ep20.jpg",
+          "duration": "41:00",
+          "video_url": "https://example.com/demo/naagini3-ep20.mp4",
+          "popularity": 48
+        },
+        {
+          "episode": 21,
+          "title": "Episode 21",
+          "thumbnail": "assets/thumbnails/naagini3-ep21.jpg",
+          "duration": "20:45",
+          "video_url": "https://example.com/demo/naagini3-ep21.mp4",
+          "popularity": 65
+        },
+        {
+          "episode": 22,
+          "title": "Episode 22",
+          "thumbnail": "assets/thumbnails/naagini3-ep22.jpg",
+          "duration": "43:40",
+          "video_url": "https://example.com/demo/naagini3-ep22.mp4",
+          "popularity": 82
+        },
+        {
+          "episode": 23,
+          "title": "Episode 23",
+          "thumbnail": "assets/thumbnails/naagini3-ep23.jpg",
+          "duration": "44:10",
+          "video_url": "https://example.com/demo/naagini3-ep23.mp4",
+          "popularity": 99
+        },
+        {
+          "episode": 24,
+          "title": "Episode 24",
+          "thumbnail": "assets/thumbnails/naagini3-ep24.jpg",
+          "duration": "20:40",
+          "video_url": "https://example.com/demo/naagini3-ep24.mp4",
+          "popularity": 16
+        },
+        {
+          "episode": 25,
+          "title": "Episode 25",
+          "thumbnail": "assets/thumbnails/naagini3-ep25.jpg",
+          "duration": "21:10",
+          "video_url": "https://example.com/demo/naagini3-ep25.mp4",
+          "popularity": 33
+        },
+        {
+          "episode": 26,
+          "title": "Episode 26",
+          "thumbnail": "assets/thumbnails/naagini3-ep26.jpg",
+          "duration": "21:45",
+          "video_url": "https://example.com/demo/naagini3-ep26.mp4",
+          "popularity": 50
+        },
+        {
+          "episode": 27,
+          "title": "Episode 27",
+          "thumbnail": "assets/thumbnails/naagini3-ep27.jpg",
+          "duration": "21:50",
+          "video_url": "https://example.com/demo/naagini3-ep27.mp4",
+          "popularity": 67
+        },
+        {
+          "episode": 28,
+          "title": "Episode 28",
+          "thumbnail": "assets/thumbnails/naagini3-ep28.jpg",
+          "duration": "38:30",
+          "video_url": "https://example.com/demo/naagini3-ep28.mp4",
+          "popularity": 84
+        },
+        {
+          "episode": 29,
+          "title": "Episode 29",
+          "thumbnail": "assets/thumbnails/naagini3-ep29.jpg",
+          "duration": "21:45",
+          "video_url": "https://example.com/demo/naagini3-ep29.mp4",
+          "popularity": 1
+        },
+        {
+          "episode": 30,
+          "title": "Episode 30",
+          "thumbnail": "assets/thumbnails/naagini3-ep30.jpg",
+          "duration": "38:45",
+          "video_url": "https://example.com/demo/naagini3-ep30.mp4",
+          "popularity": 18
+        },
+        {
+          "episode": 31,
+          "title": "Episode 31",
+          "thumbnail": "assets/thumbnails/naagini3-ep31.jpg",
+          "duration": "45:00",
+          "video_url": "https://example.com/demo/naagini3-ep31.mp4",
+          "popularity": 35
+        },
+        {
+          "episode": 32,
+          "title": "Episode 32",
+          "thumbnail": "assets/thumbnails/naagini3-ep32.jpg",
+          "duration": "45:05",
+          "video_url": "https://example.com/demo/naagini3-ep32.mp4",
+          "popularity": 52
+        },
+        {
+          "episode": 33,
+          "title": "Episode 33",
+          "thumbnail": "assets/thumbnails/naagini3-ep33.jpg",
+          "duration": "42:50",
+          "video_url": "https://example.com/demo/naagini3-ep33.mp4",
+          "popularity": 69
+        },
+        {
+          "episode": 34,
+          "title": "Episode 34",
+          "thumbnail": "assets/thumbnails/naagini3-ep34.jpg",
+          "duration": "45:45",
+          "video_url": "https://example.com/demo/naagini3-ep34.mp4",
+          "popularity": 86
+        },
+        {
+          "episode": 35,
+          "title": "Episode 35",
+          "thumbnail": "assets/thumbnails/naagini3-ep35.jpg",
+          "duration": "44:25",
+          "video_url": "https://example.com/demo/naagini3-ep35.mp4",
+          "popularity": 3
+        },
+        {
+          "episode": 36,
+          "title": "Episode 36",
+          "thumbnail": "assets/thumbnails/naagini3-ep36.jpg",
+          "duration": "40:15",
+          "video_url": "https://example.com/demo/naagini3-ep36.mp4",
+          "popularity": 20
+        },
+        {
+          "episode": 37,
+          "title": "Episode 37",
+          "thumbnail": "assets/thumbnails/naagini3-ep37.jpg",
+          "duration": "41:15",
+          "video_url": "https://example.com/demo/naagini3-ep37.mp4",
+          "popularity": 37
+        },
+        {
+          "episode": 38,
+          "title": "Episode 38",
+          "thumbnail": "assets/thumbnails/naagini3-ep38.jpg",
+          "duration": "40:30",
+          "video_url": "https://example.com/demo/naagini3-ep38.mp4",
+          "popularity": 54
+        },
+        {
+          "episode": 39,
+          "title": "Episode 39",
+          "thumbnail": "assets/thumbnails/naagini3-ep39.jpg",
+          "duration": "22:50",
+          "video_url": "https://example.com/demo/naagini3-ep39.mp4",
+          "popularity": 71
+        },
+        {
+          "episode": 40,
+          "title": "Episode 40",
+          "thumbnail": "assets/thumbnails/naagini3-ep40.jpg",
+          "duration": "40:35",
+          "video_url": "https://example.com/demo/naagini3-ep40.mp4",
+          "popularity": 88
+        },
+        {
+          "episode": 41,
+          "title": "Episode 41",
+          "thumbnail": "assets/thumbnails/naagini3-ep41.jpg",
+          "duration": "41:05",
+          "video_url": "https://example.com/demo/naagini3-ep41.mp4",
+          "popularity": 5
+        },
+        {
+          "episode": 42,
+          "title": "Episode 42",
+          "thumbnail": "assets/thumbnails/naagini3-ep42.jpg",
+          "duration": "20:35",
+          "video_url": "https://example.com/demo/naagini3-ep42.mp4",
+          "popularity": 22
+        },
+        {
+          "episode": 43,
+          "title": "Episode 43",
+          "thumbnail": "assets/thumbnails/naagini3-ep43.jpg",
+          "duration": "45:45",
+          "video_url": "https://example.com/demo/naagini3-ep43.mp4",
+          "popularity": 39
+        },
+        {
+          "episode": 44,
+          "title": "Episode 44",
+          "thumbnail": "assets/thumbnails/naagini3-ep44.jpg",
+          "duration": "21:05",
+          "video_url": "https://example.com/demo/naagini3-ep44.mp4",
+          "popularity": 56
+        },
+        {
+          "episode": 45,
+          "title": "Episode 45",
+          "thumbnail": "assets/thumbnails/naagini3-ep45.jpg",
+          "duration": "44:15",
+          "video_url": "https://example.com/demo/naagini3-ep45.mp4",
+          "popularity": 73
+        },
+        {
+          "episode": 46,
+          "title": "Episode 46",
+          "thumbnail": "assets/thumbnails/naagini3-ep46.jpg",
+          "duration": "44:20",
+          "video_url": "https://example.com/demo/naagini3-ep46.mp4",
+          "popularity": 90
+        },
+        {
+          "episode": 47,
+          "title": "Episode 47",
+          "thumbnail": "assets/thumbnails/naagini3-ep47.jpg",
+          "duration": "22:25",
+          "video_url": "https://example.com/demo/naagini3-ep47.mp4",
+          "popularity": 7
+        },
+        {
+          "episode": 48,
+          "title": "Episode 48",
+          "thumbnail": "assets/thumbnails/naagini3-ep48.jpg",
+          "duration": "21:15",
+          "video_url": "https://example.com/demo/naagini3-ep48.mp4",
+          "popularity": 24
+        },
+        {
+          "episode": 49,
+          "title": "Episode 49",
+          "thumbnail": "assets/thumbnails/naagini3-ep49.jpg",
+          "duration": "41:20",
+          "video_url": "https://example.com/demo/naagini3-ep49.mp4",
+          "popularity": 41
+        },
+        {
+          "episode": 50,
+          "title": "Episode 50",
+          "thumbnail": "assets/thumbnails/naagini3-ep50.jpg",
+          "duration": "22:35",
+          "video_url": "https://example.com/demo/naagini3-ep50.mp4",
+          "popularity": 58
+        },
+        {
+          "episode": 51,
+          "title": "Episode 51",
+          "thumbnail": "assets/thumbnails/naagini3-ep51.jpg",
+          "duration": "44:55",
+          "video_url": "https://example.com/demo/naagini3-ep51.mp4",
+          "popularity": 75
+        },
+        {
+          "episode": 52,
+          "title": "Episode 52",
+          "thumbnail": "assets/thumbnails/naagini3-ep52.jpg",
+          "duration": "40:45",
+          "video_url": "https://example.com/demo/naagini3-ep52.mp4",
+          "popularity": 92
+        },
+        {
+          "episode": 53,
+          "title": "Episode 53",
+          "thumbnail": "assets/thumbnails/naagini3-ep53.jpg",
+          "duration": "44:00",
+          "video_url": "https://example.com/demo/naagini3-ep53.mp4",
+          "popularity": 9
+        },
+        {
+          "episode": 54,
+          "title": "Episode 54",
+          "thumbnail": "assets/thumbnails/naagini3-ep54.jpg",
+          "duration": "44:20",
+          "video_url": "https://example.com/demo/naagini3-ep54.mp4",
+          "popularity": 26
+        },
+        {
+          "episode": 55,
+          "title": "Episode 55",
+          "thumbnail": "assets/thumbnails/naagini3-ep55.jpg",
+          "duration": "21:10",
+          "video_url": "https://example.com/demo/naagini3-ep55.mp4",
+          "popularity": 43
+        },
+        {
+          "episode": 56,
+          "title": "Episode 56",
+          "thumbnail": "assets/thumbnails/naagini3-ep56.jpg",
+          "duration": "40:05",
+          "video_url": "https://example.com/demo/naagini3-ep56.mp4",
+          "popularity": 60
+        },
+        {
+          "episode": 57,
+          "title": "Episode 57",
+          "thumbnail": "assets/thumbnails/naagini3-ep57.jpg",
+          "duration": "21:55",
+          "video_url": "https://example.com/demo/naagini3-ep57.mp4",
+          "popularity": 77
+        },
+        {
+          "episode": 58,
+          "title": "Episode 58",
+          "thumbnail": "assets/thumbnails/naagini3-ep58.jpg",
+          "duration": "44:10",
+          "video_url": "https://example.com/demo/naagini3-ep58.mp4",
+          "popularity": 94
+        },
+        {
+          "episode": 59,
+          "title": "Episode 59",
+          "thumbnail": "assets/thumbnails/naagini3-ep59.jpg",
+          "duration": "40:20",
+          "video_url": "https://example.com/demo/naagini3-ep59.mp4",
+          "popularity": 11
+        },
+        {
+          "episode": 60,
+          "title": "Episode 60",
+          "thumbnail": "assets/thumbnails/naagini3-ep60.jpg",
+          "duration": "45:15",
+          "video_url": "https://example.com/demo/naagini3-ep60.mp4",
+          "popularity": 28
+        },
+        {
+          "episode": 61,
+          "title": "Episode 61",
+          "thumbnail": "assets/thumbnails/naagini3-ep61.jpg",
+          "duration": "41:15",
+          "video_url": "https://example.com/demo/naagini3-ep61.mp4",
+          "popularity": 45
+        },
+        {
+          "episode": 62,
+          "title": "Episode 62",
+          "thumbnail": "assets/thumbnails/naagini3-ep62.jpg",
+          "duration": "40:40",
+          "video_url": "https://example.com/demo/naagini3-ep62.mp4",
+          "popularity": 62
+        },
+        {
+          "episode": 63,
+          "title": "Episode 63",
+          "thumbnail": "assets/thumbnails/naagini3-ep63.jpg",
+          "duration": "43:20",
+          "video_url": "https://example.com/demo/naagini3-ep63.mp4",
+          "popularity": 79
+        },
+        {
+          "episode": 64,
+          "title": "Episode 64",
+          "thumbnail": "assets/thumbnails/naagini3-ep64.jpg",
+          "duration": "20:05",
+          "video_url": "https://example.com/demo/naagini3-ep64.mp4",
+          "popularity": 96
+        },
+        {
+          "episode": 65,
+          "title": "Episode 65",
+          "thumbnail": "assets/thumbnails/naagini3-ep65.jpg",
+          "duration": "42:20",
+          "video_url": "https://example.com/demo/naagini3-ep65.mp4",
+          "popularity": 13
+        },
+        {
+          "episode": 66,
+          "title": "Episode 66",
+          "thumbnail": "assets/thumbnails/naagini3-ep66.jpg",
+          "duration": "20:00",
+          "video_url": "https://example.com/demo/naagini3-ep66.mp4",
+          "popularity": 30
+        },
+        {
+          "episode": 67,
+          "title": "Episode 67",
+          "thumbnail": "assets/thumbnails/naagini3-ep67.jpg",
+          "duration": "41:10",
+          "video_url": "https://example.com/demo/naagini3-ep67.mp4",
+          "popularity": 47
+        },
+        {
+          "episode": 68,
+          "title": "Episode 68",
+          "thumbnail": "assets/thumbnails/naagini3-ep68.jpg",
+          "duration": "40:10",
+          "video_url": "https://example.com/demo/naagini3-ep68.mp4",
+          "popularity": 64
+        },
+        {
+          "episode": 69,
+          "title": "Episode 69",
+          "thumbnail": "assets/thumbnails/naagini3-ep69.jpg",
+          "duration": "43:40",
+          "video_url": "https://example.com/demo/naagini3-ep69.mp4",
+          "popularity": 81
+        },
+        {
+          "episode": 70,
+          "title": "Episode 70",
+          "thumbnail": "assets/thumbnails/naagini3-ep70.jpg",
+          "duration": "42:40",
+          "video_url": "https://example.com/demo/naagini3-ep70.mp4",
+          "popularity": 98
+        },
+        {
+          "episode": 71,
+          "title": "Episode 71",
+          "thumbnail": "assets/thumbnails/naagini3-ep71.jpg",
+          "duration": "20:05",
+          "video_url": "https://example.com/demo/naagini3-ep71.mp4",
+          "popularity": 15
+        },
+        {
+          "episode": 72,
+          "title": "Episode 72",
+          "thumbnail": "assets/thumbnails/naagini3-ep72.jpg",
+          "duration": "21:55",
+          "video_url": "https://example.com/demo/naagini3-ep72.mp4",
+          "popularity": 32
+        },
+        {
+          "episode": 73,
+          "title": "Episode 73",
+          "thumbnail": "assets/thumbnails/naagini3-ep73.jpg",
+          "duration": "22:40",
+          "video_url": "https://example.com/demo/naagini3-ep73.mp4",
+          "popularity": 49
+        },
+        {
+          "episode": 74,
+          "title": "Episode 74",
+          "thumbnail": "assets/thumbnails/naagini3-ep74.jpg",
+          "duration": "20:25",
+          "video_url": "https://example.com/demo/naagini3-ep74.mp4",
+          "popularity": 66
+        },
+        {
+          "episode": 75,
+          "title": "Episode 75",
+          "thumbnail": "assets/thumbnails/naagini3-ep75.jpg",
+          "duration": "45:40",
+          "video_url": "https://example.com/demo/naagini3-ep75.mp4",
+          "popularity": 83
+        },
+        {
+          "episode": 76,
+          "title": "Episode 76",
+          "thumbnail": "assets/thumbnails/naagini3-ep76.jpg",
+          "duration": "22:30",
+          "video_url": "https://example.com/demo/naagini3-ep76.mp4",
+          "popularity": 0
+        },
+        {
+          "episode": 77,
+          "title": "Episode 77",
+          "thumbnail": "assets/thumbnails/naagini3-ep77.jpg",
+          "duration": "22:00",
+          "video_url": "https://example.com/demo/naagini3-ep77.mp4",
+          "popularity": 17
+        },
+        {
+          "episode": 78,
+          "title": "Episode 78",
+          "thumbnail": "assets/thumbnails/naagini3-ep78.jpg",
+          "duration": "40:25",
+          "video_url": "https://example.com/demo/naagini3-ep78.mp4",
+          "popularity": 34
+        },
+        {
+          "episode": 79,
+          "title": "Episode 79",
+          "thumbnail": "assets/thumbnails/naagini3-ep79.jpg",
+          "duration": "20:25",
+          "video_url": "https://example.com/demo/naagini3-ep79.mp4",
+          "popularity": 51
+        },
+        {
+          "episode": 80,
+          "title": "Episode 80",
+          "thumbnail": "assets/thumbnails/naagini3-ep80.jpg",
+          "duration": "38:50",
+          "video_url": "https://example.com/demo/naagini3-ep80.mp4",
+          "popularity": 68
+        },
+        {
+          "episode": 81,
+          "title": "Episode 81",
+          "thumbnail": "assets/thumbnails/naagini3-ep81.jpg",
+          "duration": "38:50",
+          "video_url": "https://example.com/demo/naagini3-ep81.mp4",
+          "popularity": 85
+        },
+        {
+          "episode": 82,
+          "title": "Episode 82",
+          "thumbnail": "assets/thumbnails/naagini3-ep82.jpg",
+          "duration": "21:25",
+          "video_url": "https://example.com/demo/naagini3-ep82.mp4",
+          "popularity": 2
+        },
+        {
+          "episode": 83,
+          "title": "Episode 83",
+          "thumbnail": "assets/thumbnails/naagini3-ep83.jpg",
+          "duration": "44:30",
+          "video_url": "https://example.com/demo/naagini3-ep83.mp4",
+          "popularity": 19
+        },
+        {
+          "episode": 84,
+          "title": "Episode 84",
+          "thumbnail": "assets/thumbnails/naagini3-ep84.jpg",
+          "duration": "45:55",
+          "video_url": "https://example.com/demo/naagini3-ep84.mp4",
+          "popularity": 36
+        },
+        {
+          "episode": 85,
+          "title": "Episode 85",
+          "thumbnail": "assets/thumbnails/naagini3-ep85.jpg",
+          "duration": "22:15",
+          "video_url": "https://example.com/demo/naagini3-ep85.mp4",
+          "popularity": 53
+        },
+        {
+          "episode": 86,
+          "title": "Episode 86",
+          "thumbnail": "assets/thumbnails/naagini3-ep86.jpg",
+          "duration": "22:10",
+          "video_url": "https://example.com/demo/naagini3-ep86.mp4",
+          "popularity": 70
+        },
+        {
+          "episode": 87,
+          "title": "Episode 87",
+          "thumbnail": "assets/thumbnails/naagini3-ep87.jpg",
+          "duration": "42:00",
+          "video_url": "https://example.com/demo/naagini3-ep87.mp4",
+          "popularity": 87
+        },
+        {
+          "episode": 88,
+          "title": "Episode 88",
+          "thumbnail": "assets/thumbnails/naagini3-ep88.jpg",
+          "duration": "22:55",
+          "video_url": "https://example.com/demo/naagini3-ep88.mp4",
+          "popularity": 4
+        },
+        {
+          "episode": 89,
+          "title": "Episode 89",
+          "thumbnail": "assets/thumbnails/naagini3-ep89.jpg",
+          "duration": "41:30",
+          "video_url": "https://example.com/demo/naagini3-ep89.mp4",
+          "popularity": 21
+        },
+        {
+          "episode": 90,
+          "title": "Episode 90",
+          "thumbnail": "assets/thumbnails/naagini3-ep90.jpg",
+          "duration": "38:20",
+          "video_url": "https://example.com/demo/naagini3-ep90.mp4",
+          "popularity": 38
+        },
+        {
+          "episode": 91,
+          "title": "Episode 91",
+          "thumbnail": "assets/thumbnails/naagini3-ep91.jpg",
+          "duration": "22:55",
+          "video_url": "https://example.com/demo/naagini3-ep91.mp4",
+          "popularity": 55
+        },
+        {
+          "episode": 92,
+          "title": "Episode 92",
+          "thumbnail": "assets/thumbnails/naagini3-ep92.jpg",
+          "duration": "21:30",
+          "video_url": "https://example.com/demo/naagini3-ep92.mp4",
+          "popularity": 72
+        },
+        {
+          "episode": 93,
+          "title": "Episode 93",
+          "thumbnail": "assets/thumbnails/naagini3-ep93.jpg",
+          "duration": "20:35",
+          "video_url": "https://example.com/demo/naagini3-ep93.mp4",
+          "popularity": 89
+        },
+        {
+          "episode": 94,
+          "title": "Episode 94",
+          "thumbnail": "assets/thumbnails/naagini3-ep94.jpg",
+          "duration": "38:15",
+          "video_url": "https://example.com/demo/naagini3-ep94.mp4",
+          "popularity": 6
+        },
+        {
+          "episode": 95,
+          "title": "Episode 95",
+          "thumbnail": "assets/thumbnails/naagini3-ep95.jpg",
+          "duration": "43:25",
+          "video_url": "https://example.com/demo/naagini3-ep95.mp4",
+          "popularity": 23
+        },
+        {
+          "episode": 96,
+          "title": "Episode 96",
+          "thumbnail": "assets/thumbnails/naagini3-ep96.jpg",
+          "duration": "40:15",
+          "video_url": "https://example.com/demo/naagini3-ep96.mp4",
+          "popularity": 40
+        },
+        {
+          "episode": 97,
+          "title": "Episode 97",
+          "thumbnail": "assets/thumbnails/naagini3-ep97.jpg",
+          "duration": "38:00",
+          "video_url": "https://example.com/demo/naagini3-ep97.mp4",
+          "popularity": 57
+        },
+        {
+          "episode": 98,
+          "title": "Episode 98",
+          "thumbnail": "assets/thumbnails/naagini3-ep98.jpg",
+          "duration": "38:30",
+          "video_url": "https://example.com/demo/naagini3-ep98.mp4",
+          "popularity": 74
+        },
+        {
+          "episode": 99,
+          "title": "Episode 99",
+          "thumbnail": "assets/thumbnails/naagini3-ep99.jpg",
+          "duration": "41:20",
+          "video_url": "https://example.com/demo/naagini3-ep99.mp4",
+          "popularity": 91
+        },
+        {
+          "episode": 100,
+          "title": "Episode 100",
+          "thumbnail": "assets/thumbnails/naagini3-ep100.jpg",
+          "duration": "21:20",
+          "video_url": "https://example.com/demo/naagini3-ep100.mp4",
+          "popularity": 8
+        },
+        {
+          "episode": 101,
+          "title": "Episode 101",
+          "thumbnail": "assets/thumbnails/naagini3-ep101.jpg",
+          "duration": "41:50",
+          "video_url": "https://example.com/demo/naagini3-ep101.mp4",
+          "popularity": 25
+        },
+        {
+          "episode": 102,
+          "title": "Episode 102",
+          "thumbnail": "assets/thumbnails/naagini3-ep102.jpg",
+          "duration": "44:30",
+          "video_url": "https://example.com/demo/naagini3-ep102.mp4",
+          "popularity": 42
+        },
+        {
+          "episode": 103,
+          "title": "Episode 103",
+          "thumbnail": "assets/thumbnails/naagini3-ep103.jpg",
+          "duration": "44:25",
+          "video_url": "https://example.com/demo/naagini3-ep103.mp4",
+          "popularity": 59
+        },
+        {
+          "episode": 104,
+          "title": "Episode 104",
+          "thumbnail": "assets/thumbnails/naagini3-ep104.jpg",
+          "duration": "20:05",
+          "video_url": "https://example.com/demo/naagini3-ep104.mp4",
+          "popularity": 76
+        },
+        {
+          "episode": 105,
+          "title": "Episode 105",
+          "thumbnail": "assets/thumbnails/naagini3-ep105.jpg",
+          "duration": "40:10",
+          "video_url": "https://example.com/demo/naagini3-ep105.mp4",
+          "popularity": 93
+        },
+        {
+          "episode": 106,
+          "title": "Episode 106",
+          "thumbnail": "assets/thumbnails/naagini3-ep106.jpg",
+          "duration": "45:20",
+          "video_url": "https://example.com/demo/naagini3-ep106.mp4",
+          "popularity": 10
+        },
+        {
+          "episode": 107,
+          "title": "Episode 107",
+          "thumbnail": "assets/thumbnails/naagini3-ep107.jpg",
+          "duration": "20:05",
+          "video_url": "https://example.com/demo/naagini3-ep107.mp4",
+          "popularity": 27
+        },
+        {
+          "episode": 108,
+          "title": "Episode 108",
+          "thumbnail": "assets/thumbnails/naagini3-ep108.jpg",
+          "duration": "45:30",
+          "video_url": "https://example.com/demo/naagini3-ep108.mp4",
+          "popularity": 44
+        },
+        {
+          "episode": 109,
+          "title": "Episode 109",
+          "thumbnail": "assets/thumbnails/naagini3-ep109.jpg",
+          "duration": "41:55",
+          "video_url": "https://example.com/demo/naagini3-ep109.mp4",
+          "popularity": 61
+        },
+        {
+          "episode": 110,
+          "title": "Episode 110",
+          "thumbnail": "assets/thumbnails/naagini3-ep110.jpg",
+          "duration": "41:30",
+          "video_url": "https://example.com/demo/naagini3-ep110.mp4",
+          "popularity": 78
+        },
+        {
+          "episode": 111,
+          "title": "Episode 111",
+          "thumbnail": "assets/thumbnails/naagini3-ep111.jpg",
+          "duration": "45:40",
+          "video_url": "https://example.com/demo/naagini3-ep111.mp4",
+          "popularity": 95
+        },
+        {
+          "episode": 112,
+          "title": "Episode 112",
+          "thumbnail": "assets/thumbnails/naagini3-ep112.jpg",
+          "duration": "21:30",
+          "video_url": "https://example.com/demo/naagini3-ep112.mp4",
+          "popularity": 12
+        },
+        {
+          "episode": 113,
+          "title": "Episode 113",
+          "thumbnail": "assets/thumbnails/naagini3-ep113.jpg",
+          "duration": "45:15",
+          "video_url": "https://example.com/demo/naagini3-ep113.mp4",
+          "popularity": 29
+        },
+        {
+          "episode": 114,
+          "title": "Episode 114",
+          "thumbnail": "assets/thumbnails/naagini3-ep114.jpg",
+          "duration": "40:00",
+          "video_url": "https://example.com/demo/naagini3-ep114.mp4",
+          "popularity": 46
+        },
+        {
+          "episode": 115,
+          "title": "Episode 115",
+          "thumbnail": "assets/thumbnails/naagini3-ep115.jpg",
+          "duration": "42:00",
+          "video_url": "https://example.com/demo/naagini3-ep115.mp4",
+          "popularity": 63
+        },
+        {
+          "episode": 116,
+          "title": "Episode 116",
+          "thumbnail": "assets/thumbnails/naagini3-ep116.jpg",
+          "duration": "44:40",
+          "video_url": "https://example.com/demo/naagini3-ep116.mp4",
+          "popularity": 80
+        },
+        {
+          "episode": 117,
+          "title": "Episode 117",
+          "thumbnail": "assets/thumbnails/naagini3-ep117.jpg",
+          "duration": "38:25",
+          "video_url": "https://example.com/demo/naagini3-ep117.mp4",
+          "popularity": 97
+        },
+        {
+          "episode": 118,
+          "title": "Episode 118",
+          "thumbnail": "assets/thumbnails/naagini3-ep118.jpg",
+          "duration": "42:05",
+          "video_url": "https://example.com/demo/naagini3-ep118.mp4",
+          "popularity": 14
+        },
+        {
+          "episode": 119,
+          "title": "Episode 119",
+          "thumbnail": "assets/thumbnails/naagini3-ep119.jpg",
+          "duration": "41:45",
+          "video_url": "https://example.com/demo/naagini3-ep119.mp4",
+          "popularity": 31
+        },
+        {
+          "episode": 120,
+          "title": "Episode 120",
+          "thumbnail": "assets/thumbnails/naagini3-ep120.jpg",
+          "duration": "41:50",
+          "video_url": "https://example.com/demo/naagini3-ep120.mp4",
+          "popularity": 48
+        },
+        {
+          "episode": 121,
+          "title": "Episode 121",
+          "thumbnail": "assets/thumbnails/naagini3-ep121.jpg",
+          "duration": "21:55",
+          "video_url": "https://example.com/demo/naagini3-ep121.mp4",
+          "popularity": 65
+        },
+        {
+          "episode": 122,
+          "title": "Episode 122",
+          "thumbnail": "assets/thumbnails/naagini3-ep122.jpg",
+          "duration": "40:40",
+          "video_url": "https://example.com/demo/naagini3-ep122.mp4",
+          "popularity": 82
+        },
+        {
+          "episode": 123,
+          "title": "Episode 123",
+          "thumbnail": "assets/thumbnails/naagini3-ep123.jpg",
+          "duration": "40:50",
+          "video_url": "https://example.com/demo/naagini3-ep123.mp4",
+          "popularity": 99
+        },
+        {
+          "episode": 124,
+          "title": "Episode 124",
+          "thumbnail": "assets/thumbnails/naagini3-ep124.jpg",
+          "duration": "42:25",
+          "video_url": "https://example.com/demo/naagini3-ep124.mp4",
+          "popularity": 16
+        },
+        {
+          "episode": 125,
+          "title": "Episode 125",
+          "thumbnail": "assets/thumbnails/naagini3-ep125.jpg",
+          "duration": "42:55",
+          "video_url": "https://example.com/demo/naagini3-ep125.mp4",
+          "popularity": 33
+        },
+        {
+          "episode": 126,
+          "title": "Episode 126",
+          "thumbnail": "assets/thumbnails/naagini3-ep126.jpg",
+          "duration": "40:40",
+          "video_url": "https://example.com/demo/naagini3-ep126.mp4",
+          "popularity": 50
+        },
+        {
+          "episode": 127,
+          "title": "Episode 127",
+          "thumbnail": "assets/thumbnails/naagini3-ep127.jpg",
+          "duration": "22:15",
+          "video_url": "https://example.com/demo/naagini3-ep127.mp4",
+          "popularity": 67
+        },
+        {
+          "episode": 128,
+          "title": "Episode 128",
+          "thumbnail": "assets/thumbnails/naagini3-ep128.jpg",
+          "duration": "42:50",
+          "video_url": "https://example.com/demo/naagini3-ep128.mp4",
+          "popularity": 84
+        },
+        {
+          "episode": 129,
+          "title": "Episode 129",
+          "thumbnail": "assets/thumbnails/naagini3-ep129.jpg",
+          "duration": "42:50",
+          "video_url": "https://example.com/demo/naagini3-ep129.mp4",
+          "popularity": 1
+        },
+        {
+          "episode": 130,
+          "title": "Episode 130",
+          "thumbnail": "assets/thumbnails/naagini3-ep130.jpg",
+          "duration": "22:45",
+          "video_url": "https://example.com/demo/naagini3-ep130.mp4",
+          "popularity": 18
+        },
+        {
+          "episode": 131,
+          "title": "Episode 131",
+          "thumbnail": "assets/thumbnails/naagini3-ep131.jpg",
+          "duration": "45:20",
+          "video_url": "https://example.com/demo/naagini3-ep131.mp4",
+          "popularity": 35
+        },
+        {
+          "episode": 132,
+          "title": "Episode 132",
+          "thumbnail": "assets/thumbnails/naagini3-ep132.jpg",
+          "duration": "42:40",
+          "video_url": "https://example.com/demo/naagini3-ep132.mp4",
+          "popularity": 52
+        },
+        {
+          "episode": 133,
+          "title": "Episode 133",
+          "thumbnail": "assets/thumbnails/naagini3-ep133.jpg",
+          "duration": "20:20",
+          "video_url": "https://example.com/demo/naagini3-ep133.mp4",
+          "popularity": 69
+        },
+        {
+          "episode": 134,
+          "title": "Episode 134",
+          "thumbnail": "assets/thumbnails/naagini3-ep134.jpg",
+          "duration": "40:15",
+          "video_url": "https://example.com/demo/naagini3-ep134.mp4",
+          "popularity": 86
+        },
+        {
+          "episode": 135,
+          "title": "Episode 135",
+          "thumbnail": "assets/thumbnails/naagini3-ep135.jpg",
+          "duration": "42:45",
+          "video_url": "https://example.com/demo/naagini3-ep135.mp4",
+          "popularity": 3
+        },
+        {
+          "episode": 136,
+          "title": "Episode 136",
+          "thumbnail": "assets/thumbnails/naagini3-ep136.jpg",
+          "duration": "45:50",
+          "video_url": "https://example.com/demo/naagini3-ep136.mp4",
+          "popularity": 20
+        },
+        {
+          "episode": 137,
+          "title": "Episode 137",
+          "thumbnail": "assets/thumbnails/naagini3-ep137.jpg",
+          "duration": "41:35",
+          "video_url": "https://example.com/demo/naagini3-ep137.mp4",
+          "popularity": 37
+        },
+        {
+          "episode": 138,
+          "title": "Episode 138",
+          "thumbnail": "assets/thumbnails/naagini3-ep138.jpg",
+          "duration": "43:35",
+          "video_url": "https://example.com/demo/naagini3-ep138.mp4",
+          "popularity": 54
+        },
+        {
+          "episode": 139,
+          "title": "Episode 139",
+          "thumbnail": "assets/thumbnails/naagini3-ep139.jpg",
+          "duration": "38:40",
+          "video_url": "https://example.com/demo/naagini3-ep139.mp4",
+          "popularity": 71
+        },
+        {
+          "episode": 140,
+          "title": "Episode 140",
+          "thumbnail": "assets/thumbnails/naagini3-ep140.jpg",
+          "duration": "43:55",
+          "video_url": "https://example.com/demo/naagini3-ep140.mp4",
+          "popularity": 88
+        },
+        {
+          "episode": 141,
+          "title": "Episode 141",
+          "thumbnail": "assets/thumbnails/naagini3-ep141.jpg",
+          "duration": "22:50",
+          "video_url": "https://example.com/demo/naagini3-ep141.mp4",
+          "popularity": 5
+        },
+        {
+          "episode": 142,
+          "title": "Episode 142",
+          "thumbnail": "assets/thumbnails/naagini3-ep142.jpg",
+          "duration": "21:20",
+          "video_url": "https://example.com/demo/naagini3-ep142.mp4",
+          "popularity": 22
+        },
+        {
+          "episode": 143,
+          "title": "Episode 143",
+          "thumbnail": "assets/thumbnails/naagini3-ep143.jpg",
+          "duration": "44:50",
+          "video_url": "https://example.com/demo/naagini3-ep143.mp4",
+          "popularity": 39
+        },
+        {
+          "episode": 144,
+          "title": "Episode 144",
+          "thumbnail": "assets/thumbnails/naagini3-ep144.jpg",
+          "duration": "45:25",
+          "video_url": "https://example.com/demo/naagini3-ep144.mp4",
+          "popularity": 56
+        },
+        {
+          "episode": 145,
+          "title": "Episode 145",
+          "thumbnail": "assets/thumbnails/naagini3-ep145.jpg",
+          "duration": "21:15",
+          "video_url": "https://example.com/demo/naagini3-ep145.mp4",
+          "popularity": 73
+        },
+        {
+          "episode": 146,
+          "title": "Episode 146",
+          "thumbnail": "assets/thumbnails/naagini3-ep146.jpg",
+          "duration": "40:15",
+          "video_url": "https://example.com/demo/naagini3-ep146.mp4",
+          "popularity": 90
+        },
+        {
+          "episode": 147,
+          "title": "Episode 147",
+          "thumbnail": "assets/thumbnails/naagini3-ep147.jpg",
+          "duration": "38:10",
+          "video_url": "https://example.com/demo/naagini3-ep147.mp4",
+          "popularity": 7
+        },
+        {
+          "episode": 148,
+          "title": "Episode 148",
+          "thumbnail": "assets/thumbnails/naagini3-ep148.jpg",
+          "duration": "20:00",
+          "video_url": "https://example.com/demo/naagini3-ep148.mp4",
+          "popularity": 24
+        },
+        {
+          "episode": 149,
+          "title": "Episode 149",
+          "thumbnail": "assets/thumbnails/naagini3-ep149.jpg",
+          "duration": "38:35",
+          "video_url": "https://example.com/demo/naagini3-ep149.mp4",
+          "popularity": 41
+        },
+        {
+          "episode": 150,
+          "title": "Episode 150",
+          "thumbnail": "assets/thumbnails/naagini3-ep150.jpg",
+          "duration": "45:05",
+          "video_url": "https://example.com/demo/naagini3-ep150.mp4",
+          "popularity": 58
+        },
+        {
+          "episode": 151,
+          "title": "Episode 151",
+          "thumbnail": "assets/thumbnails/naagini3-ep151.jpg",
+          "duration": "43:30",
+          "video_url": "https://example.com/demo/naagini3-ep151.mp4",
+          "popularity": 75
+        },
+        {
+          "episode": 152,
+          "title": "Episode 152",
+          "thumbnail": "assets/thumbnails/naagini3-ep152.jpg",
+          "duration": "45:15",
+          "video_url": "https://example.com/demo/naagini3-ep152.mp4",
+          "popularity": 92
+        },
+        {
+          "episode": 153,
+          "title": "Episode 153",
+          "thumbnail": "assets/thumbnails/naagini3-ep153.jpg",
+          "duration": "42:35",
+          "video_url": "https://example.com/demo/naagini3-ep153.mp4",
+          "popularity": 9
+        },
+        {
+          "episode": 154,
+          "title": "Episode 154",
+          "thumbnail": "assets/thumbnails/naagini3-ep154.jpg",
+          "duration": "42:15",
+          "video_url": "https://example.com/demo/naagini3-ep154.mp4",
+          "popularity": 26
+        },
+        {
+          "episode": 155,
+          "title": "Episode 155",
+          "thumbnail": "assets/thumbnails/naagini3-ep155.jpg",
+          "duration": "22:50",
+          "video_url": "https://example.com/demo/naagini3-ep155.mp4",
+          "popularity": 43
+        },
+        {
+          "episode": 156,
+          "title": "Episode 156",
+          "thumbnail": "assets/thumbnails/naagini3-ep156.jpg",
+          "duration": "20:05",
+          "video_url": "https://example.com/demo/naagini3-ep156.mp4",
+          "popularity": 60
+        },
+        {
+          "episode": 157,
+          "title": "Episode 157",
+          "thumbnail": "assets/thumbnails/naagini3-ep157.jpg",
+          "duration": "42:15",
+          "video_url": "https://example.com/demo/naagini3-ep157.mp4",
+          "popularity": 77
+        },
+        {
+          "episode": 158,
+          "title": "Episode 158",
+          "thumbnail": "assets/thumbnails/naagini3-ep158.jpg",
+          "duration": "22:55",
+          "video_url": "https://example.com/demo/naagini3-ep158.mp4",
+          "popularity": 94
+        },
+        {
+          "episode": 159,
+          "title": "Episode 159",
+          "thumbnail": "assets/thumbnails/naagini3-ep159.jpg",
+          "duration": "44:35",
+          "video_url": "https://example.com/demo/naagini3-ep159.mp4",
+          "popularity": 11
+        },
+        {
+          "episode": 160,
+          "title": "Episode 160",
+          "thumbnail": "assets/thumbnails/naagini3-ep160.jpg",
+          "duration": "20:40",
+          "video_url": "https://example.com/demo/naagini3-ep160.mp4",
+          "popularity": 28
+        },
+        {
+          "episode": 161,
+          "title": "Episode 161",
+          "thumbnail": "assets/thumbnails/naagini3-ep161.jpg",
+          "duration": "38:05",
+          "video_url": "https://example.com/demo/naagini3-ep161.mp4",
+          "popularity": 45
+        },
+        {
+          "episode": 162,
+          "title": "Episode 162",
+          "thumbnail": "assets/thumbnails/naagini3-ep162.jpg",
+          "duration": "43:10",
+          "video_url": "https://example.com/demo/naagini3-ep162.mp4",
+          "popularity": 62
+        },
+        {
+          "episode": 163,
+          "title": "Episode 163",
+          "thumbnail": "assets/thumbnails/naagini3-ep163.jpg",
+          "duration": "43:50",
+          "video_url": "https://example.com/demo/naagini3-ep163.mp4",
+          "popularity": 79
+        },
+        {
+          "episode": 164,
+          "title": "Episode 164",
+          "thumbnail": "assets/thumbnails/naagini3-ep164.jpg",
+          "duration": "44:40",
+          "video_url": "https://example.com/demo/naagini3-ep164.mp4",
+          "popularity": 96
+        },
+        {
+          "episode": 165,
+          "title": "Episode 165",
+          "thumbnail": "assets/thumbnails/naagini3-ep165.jpg",
+          "duration": "45:25",
+          "video_url": "https://example.com/demo/naagini3-ep165.mp4",
+          "popularity": 13
+        },
+        {
+          "episode": 166,
+          "title": "Episode 166",
+          "thumbnail": "assets/thumbnails/naagini3-ep166.jpg",
+          "duration": "43:45",
+          "video_url": "https://example.com/demo/naagini3-ep166.mp4",
+          "popularity": 30
+        },
+        {
+          "episode": 167,
+          "title": "Episode 167",
+          "thumbnail": "assets/thumbnails/naagini3-ep167.jpg",
+          "duration": "44:30",
+          "video_url": "https://example.com/demo/naagini3-ep167.mp4",
+          "popularity": 47
+        },
+        {
+          "episode": 168,
+          "title": "Episode 168",
+          "thumbnail": "assets/thumbnails/naagini3-ep168.jpg",
+          "duration": "44:35",
+          "video_url": "https://example.com/demo/naagini3-ep168.mp4",
+          "popularity": 64
+        },
+        {
+          "episode": 169,
+          "title": "Episode 169",
+          "thumbnail": "assets/thumbnails/naagini3-ep169.jpg",
+          "duration": "22:55",
+          "video_url": "https://example.com/demo/naagini3-ep169.mp4",
+          "popularity": 81
+        },
+        {
+          "episode": 170,
+          "title": "Episode 170",
+          "thumbnail": "assets/thumbnails/naagini3-ep170.jpg",
+          "duration": "43:35",
+          "video_url": "https://example.com/demo/naagini3-ep170.mp4",
+          "popularity": 98
+        },
+        {
+          "episode": 171,
+          "title": "Episode 171",
+          "thumbnail": "assets/thumbnails/naagini3-ep171.jpg",
+          "duration": "40:15",
+          "video_url": "https://example.com/demo/naagini3-ep171.mp4",
+          "popularity": 15
+        },
+        {
+          "episode": 172,
+          "title": "Episode 172",
+          "thumbnail": "assets/thumbnails/naagini3-ep172.jpg",
+          "duration": "40:40",
+          "video_url": "https://example.com/demo/naagini3-ep172.mp4",
+          "popularity": 32
+        },
+        {
+          "episode": 173,
+          "title": "Episode 173",
+          "thumbnail": "assets/thumbnails/naagini3-ep173.jpg",
+          "duration": "43:50",
+          "video_url": "https://example.com/demo/naagini3-ep173.mp4",
+          "popularity": 49
+        },
+        {
+          "episode": 174,
+          "title": "Episode 174",
+          "thumbnail": "assets/thumbnails/naagini3-ep174.jpg",
+          "duration": "38:20",
+          "video_url": "https://example.com/demo/naagini3-ep174.mp4",
+          "popularity": 66
+        },
+        {
+          "episode": 175,
+          "title": "Episode 175",
+          "thumbnail": "assets/thumbnails/naagini3-ep175.jpg",
+          "duration": "43:05",
+          "video_url": "https://example.com/demo/naagini3-ep175.mp4",
+          "popularity": 83
+        },
+        {
+          "episode": 176,
+          "title": "Episode 176",
+          "thumbnail": "assets/thumbnails/naagini3-ep176.jpg",
+          "duration": "40:15",
+          "video_url": "https://example.com/demo/naagini3-ep176.mp4",
+          "popularity": 0
+        },
+        {
+          "episode": 177,
+          "title": "Episode 177",
+          "thumbnail": "assets/thumbnails/naagini3-ep177.jpg",
+          "duration": "40:25",
+          "video_url": "https://example.com/demo/naagini3-ep177.mp4",
+          "popularity": 17
+        },
+        {
+          "episode": 178,
+          "title": "Episode 178",
+          "thumbnail": "assets/thumbnails/naagini3-ep178.jpg",
+          "duration": "41:40",
+          "video_url": "https://example.com/demo/naagini3-ep178.mp4",
+          "popularity": 34
+        },
+        {
+          "episode": 179,
+          "title": "Episode 179",
+          "thumbnail": "assets/thumbnails/naagini3-ep179.jpg",
+          "duration": "21:10",
+          "video_url": "https://example.com/demo/naagini3-ep179.mp4",
+          "popularity": 51
+        },
+        {
+          "episode": 180,
+          "title": "Episode 180",
+          "thumbnail": "assets/thumbnails/naagini3-ep180.jpg",
+          "duration": "22:15",
+          "video_url": "https://example.com/demo/naagini3-ep180.mp4",
+          "popularity": 68
+        },
+        {
+          "episode": 181,
+          "title": "Episode 181",
+          "thumbnail": "assets/thumbnails/naagini3-ep181.jpg",
+          "duration": "42:55",
+          "video_url": "https://example.com/demo/naagini3-ep181.mp4",
+          "popularity": 85
+        },
+        {
+          "episode": 182,
+          "title": "Episode 182",
+          "thumbnail": "assets/thumbnails/naagini3-ep182.jpg",
+          "duration": "22:55",
+          "video_url": "https://example.com/demo/naagini3-ep182.mp4",
+          "popularity": 2
+        },
+        {
+          "episode": 183,
+          "title": "Episode 183",
+          "thumbnail": "assets/thumbnails/naagini3-ep183.jpg",
+          "duration": "38:05",
+          "video_url": "https://example.com/demo/naagini3-ep183.mp4",
+          "popularity": 19
+        },
+        {
+          "episode": 184,
+          "title": "Episode 184",
+          "thumbnail": "assets/thumbnails/naagini3-ep184.jpg",
+          "duration": "42:30",
+          "video_url": "https://example.com/demo/naagini3-ep184.mp4",
+          "popularity": 36
+        },
+        {
+          "episode": 185,
+          "title": "Episode 185",
+          "thumbnail": "assets/thumbnails/naagini3-ep185.jpg",
+          "duration": "41:40",
+          "video_url": "https://example.com/demo/naagini3-ep185.mp4",
+          "popularity": 53
+        },
+        {
+          "episode": 186,
+          "title": "Episode 186",
+          "thumbnail": "assets/thumbnails/naagini3-ep186.jpg",
+          "duration": "43:30",
+          "video_url": "https://example.com/demo/naagini3-ep186.mp4",
+          "popularity": 70
+        },
+        {
+          "episode": 187,
+          "title": "Episode 187",
+          "thumbnail": "assets/thumbnails/naagini3-ep187.jpg",
+          "duration": "20:15",
+          "video_url": "https://example.com/demo/naagini3-ep187.mp4",
+          "popularity": 87
+        },
+        {
+          "episode": 188,
+          "title": "Episode 188",
+          "thumbnail": "assets/thumbnails/naagini3-ep188.jpg",
+          "duration": "42:30",
+          "video_url": "https://example.com/demo/naagini3-ep188.mp4",
+          "popularity": 4
+        },
+        {
+          "episode": 189,
+          "title": "Episode 189",
+          "thumbnail": "assets/thumbnails/naagini3-ep189.jpg",
+          "duration": "45:55",
+          "video_url": "https://example.com/demo/naagini3-ep189.mp4",
+          "popularity": 21
+        },
+        {
+          "episode": 190,
+          "title": "Episode 190",
+          "thumbnail": "assets/thumbnails/naagini3-ep190.jpg",
+          "duration": "20:45",
+          "video_url": "https://example.com/demo/naagini3-ep190.mp4",
+          "popularity": 38
+        },
+        {
+          "episode": 191,
+          "title": "Episode 191",
+          "thumbnail": "assets/thumbnails/naagini3-ep191.jpg",
+          "duration": "42:35",
+          "video_url": "https://example.com/demo/naagini3-ep191.mp4",
+          "popularity": 55
+        },
+        {
+          "episode": 192,
+          "title": "Episode 192",
+          "thumbnail": "assets/thumbnails/naagini3-ep192.jpg",
+          "duration": "20:25",
+          "video_url": "https://example.com/demo/naagini3-ep192.mp4",
+          "popularity": 72
+        },
+        {
+          "episode": 193,
+          "title": "Episode 193",
+          "thumbnail": "assets/thumbnails/naagini3-ep193.jpg",
+          "duration": "40:30",
+          "video_url": "https://example.com/demo/naagini3-ep193.mp4",
+          "popularity": 89
+        },
+        {
+          "episode": 194,
+          "title": "Episode 194",
+          "thumbnail": "assets/thumbnails/naagini3-ep194.jpg",
+          "duration": "42:40",
+          "video_url": "https://example.com/demo/naagini3-ep194.mp4",
+          "popularity": 6
+        },
+        {
+          "episode": 195,
+          "title": "Episode 195",
+          "thumbnail": "assets/thumbnails/naagini3-ep195.jpg",
+          "duration": "44:45",
+          "video_url": "https://example.com/demo/naagini3-ep195.mp4",
+          "popularity": 23
+        },
+        {
+          "episode": 196,
+          "title": "Episode 196",
+          "thumbnail": "assets/thumbnails/naagini3-ep196.jpg",
+          "duration": "38:35",
+          "video_url": "https://example.com/demo/naagini3-ep196.mp4",
+          "popularity": 40
+        },
+        {
+          "episode": 197,
+          "title": "Episode 197",
+          "thumbnail": "assets/thumbnails/naagini3-ep197.jpg",
+          "duration": "38:20",
+          "video_url": "https://example.com/demo/naagini3-ep197.mp4",
+          "popularity": 57
+        },
+        {
+          "episode": 198,
+          "title": "Episode 198",
+          "thumbnail": "assets/thumbnails/naagini3-ep198.jpg",
+          "duration": "42:35",
+          "video_url": "https://example.com/demo/naagini3-ep198.mp4",
+          "popularity": 74
+        },
+        {
+          "episode": 199,
+          "title": "Episode 199",
+          "thumbnail": "assets/thumbnails/naagini3-ep199.jpg",
+          "duration": "20:30",
+          "video_url": "https://example.com/demo/naagini3-ep199.mp4",
+          "popularity": 91
+        },
+        {
+          "episode": 200,
+          "title": "Episode 200",
+          "thumbnail": "assets/thumbnails/naagini3-ep200.jpg",
+          "duration": "41:50",
+          "video_url": "https://example.com/demo/naagini3-ep200.mp4",
+          "popularity": 8
+        },
+        {
+          "episode": 201,
+          "title": "Episode 201",
+          "thumbnail": "assets/thumbnails/naagini3-ep201.jpg",
+          "duration": "42:55",
+          "video_url": "https://example.com/demo/naagini3-ep201.mp4",
+          "popularity": 25
+        },
+        {
+          "episode": 202,
+          "title": "Episode 202",
+          "thumbnail": "assets/thumbnails/naagini3-ep202.jpg",
+          "duration": "22:35",
+          "video_url": "https://example.com/demo/naagini3-ep202.mp4",
+          "popularity": 42
+        },
+        {
+          "episode": 203,
+          "title": "Episode 203",
+          "thumbnail": "assets/thumbnails/naagini3-ep203.jpg",
+          "duration": "22:45",
+          "video_url": "https://example.com/demo/naagini3-ep203.mp4",
+          "popularity": 59
+        },
+        {
+          "episode": 204,
+          "title": "Episode 204",
+          "thumbnail": "assets/thumbnails/naagini3-ep204.jpg",
+          "duration": "44:00",
+          "video_url": "https://example.com/demo/naagini3-ep204.mp4",
+          "popularity": 76
+        },
+        {
+          "episode": 205,
+          "title": "Episode 205",
+          "thumbnail": "assets/thumbnails/naagini3-ep205.jpg",
+          "duration": "42:45",
+          "video_url": "https://example.com/demo/naagini3-ep205.mp4",
+          "popularity": 93
+        }
+      ]
+    },
+    {
+      "id": "naagini-4",
+      "title": "Naagini 4",
+      "episode_count": 30,
+      "description": "A mysterious new chapter begins.",
+      "poster": "assets/posters/naagini4.jpg",
+      "banner": "assets/banners/naagini4-banner.jpg",
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2"
+      ],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Episode 1",
+          "thumbnail": "assets/thumbnails/naagini4-ep1.jpg",
+          "duration": "45:50",
+          "video_url": "https://example.com/demo/naagini4-ep1.mp4",
+          "popularity": 25
+        },
+        {
+          "episode": 2,
+          "title": "Episode 2",
+          "thumbnail": "assets/thumbnails/naagini4-ep2.jpg",
+          "duration": "20:05",
+          "video_url": "https://example.com/demo/naagini4-ep2.mp4",
+          "popularity": 42
+        },
+        {
+          "episode": 3,
+          "title": "Episode 3",
+          "thumbnail": "assets/thumbnails/naagini4-ep3.jpg",
+          "duration": "42:10",
+          "video_url": "https://example.com/demo/naagini4-ep3.mp4",
+          "popularity": 59
+        },
+        {
+          "episode": 4,
+          "title": "Episode 4",
+          "thumbnail": "assets/thumbnails/naagini4-ep4.jpg",
+          "duration": "43:10",
+          "video_url": "https://example.com/demo/naagini4-ep4.mp4",
+          "popularity": 76
+        },
+        {
+          "episode": 5,
+          "title": "Episode 5",
+          "thumbnail": "assets/thumbnails/naagini4-ep5.jpg",
+          "duration": "20:20",
+          "video_url": "https://example.com/demo/naagini4-ep5.mp4",
+          "popularity": 93
+        },
+        {
+          "episode": 6,
+          "title": "Episode 6",
+          "thumbnail": "assets/thumbnails/naagini4-ep6.jpg",
+          "duration": "42:25",
+          "video_url": "https://example.com/demo/naagini4-ep6.mp4",
+          "popularity": 10
+        },
+        {
+          "episode": 7,
+          "title": "Episode 7",
+          "thumbnail": "assets/thumbnails/naagini4-ep7.jpg",
+          "duration": "38:35",
+          "video_url": "https://example.com/demo/naagini4-ep7.mp4",
+          "popularity": 27
+        },
+        {
+          "episode": 8,
+          "title": "Episode 8",
+          "thumbnail": "assets/thumbnails/naagini4-ep8.jpg",
+          "duration": "41:25",
+          "video_url": "https://example.com/demo/naagini4-ep8.mp4",
+          "popularity": 44
+        },
+        {
+          "episode": 9,
+          "title": "Episode 9",
+          "thumbnail": "assets/thumbnails/naagini4-ep9.jpg",
+          "duration": "42:20",
+          "video_url": "https://example.com/demo/naagini4-ep9.mp4",
+          "popularity": 61
+        },
+        {
+          "episode": 10,
+          "title": "Episode 10",
+          "thumbnail": "assets/thumbnails/naagini4-ep10.jpg",
+          "duration": "42:20",
+          "video_url": "https://example.com/demo/naagini4-ep10.mp4",
+          "popularity": 78
+        },
+        {
+          "episode": 11,
+          "title": "Episode 11",
+          "thumbnail": "assets/thumbnails/naagini4-ep11.jpg",
+          "duration": "21:35",
+          "video_url": "https://example.com/demo/naagini4-ep11.mp4",
+          "popularity": 95
+        },
+        {
+          "episode": 12,
+          "title": "Episode 12",
+          "thumbnail": "assets/thumbnails/naagini4-ep12.jpg",
+          "duration": "20:55",
+          "video_url": "https://example.com/demo/naagini4-ep12.mp4",
+          "popularity": 12
+        },
+        {
+          "episode": 13,
+          "title": "Episode 13",
+          "thumbnail": "assets/thumbnails/naagini4-ep13.jpg",
+          "duration": "44:00",
+          "video_url": "https://example.com/demo/naagini4-ep13.mp4",
+          "popularity": 29
+        },
+        {
+          "episode": 14,
+          "title": "Episode 14",
+          "thumbnail": "assets/thumbnails/naagini4-ep14.jpg",
+          "duration": "41:15",
+          "video_url": "https://example.com/demo/naagini4-ep14.mp4",
+          "popularity": 46
+        },
+        {
+          "episode": 15,
+          "title": "Episode 15",
+          "thumbnail": "assets/thumbnails/naagini4-ep15.jpg",
+          "duration": "21:50",
+          "video_url": "https://example.com/demo/naagini4-ep15.mp4",
+          "popularity": 63
+        },
+        {
+          "episode": 16,
+          "title": "Episode 16",
+          "thumbnail": "assets/thumbnails/naagini4-ep16.jpg",
+          "duration": "20:00",
+          "video_url": "https://example.com/demo/naagini4-ep16.mp4",
+          "popularity": 80
+        },
+        {
+          "episode": 17,
+          "title": "Episode 17",
+          "thumbnail": "assets/thumbnails/naagini4-ep17.jpg",
+          "duration": "38:15",
+          "video_url": "https://example.com/demo/naagini4-ep17.mp4",
+          "popularity": 97
+        },
+        {
+          "episode": 18,
+          "title": "Episode 18",
+          "thumbnail": "assets/thumbnails/naagini4-ep18.jpg",
+          "duration": "20:45",
+          "video_url": "https://example.com/demo/naagini4-ep18.mp4",
+          "popularity": 14
+        },
+        {
+          "episode": 19,
+          "title": "Episode 19",
+          "thumbnail": "assets/thumbnails/naagini4-ep19.jpg",
+          "duration": "22:15",
+          "video_url": "https://example.com/demo/naagini4-ep19.mp4",
+          "popularity": 31
+        },
+        {
+          "episode": 20,
+          "title": "Episode 20",
+          "thumbnail": "assets/thumbnails/naagini4-ep20.jpg",
+          "duration": "22:35",
+          "video_url": "https://example.com/demo/naagini4-ep20.mp4",
+          "popularity": 48
+        },
+        {
+          "episode": 21,
+          "title": "Episode 21",
+          "thumbnail": "assets/thumbnails/naagini4-ep21.jpg",
+          "duration": "21:45",
+          "video_url": "https://example.com/demo/naagini4-ep21.mp4",
+          "popularity": 65
+        },
+        {
+          "episode": 22,
+          "title": "Episode 22",
+          "thumbnail": "assets/thumbnails/naagini4-ep22.jpg",
+          "duration": "38:35",
+          "video_url": "https://example.com/demo/naagini4-ep22.mp4",
+          "popularity": 82
+        },
+        {
+          "episode": 23,
+          "title": "Episode 23",
+          "thumbnail": "assets/thumbnails/naagini4-ep23.jpg",
+          "duration": "40:25",
+          "video_url": "https://example.com/demo/naagini4-ep23.mp4",
+          "popularity": 99
+        },
+        {
+          "episode": 24,
+          "title": "Episode 24",
+          "thumbnail": "assets/thumbnails/naagini4-ep24.jpg",
+          "duration": "22:45",
+          "video_url": "https://example.com/demo/naagini4-ep24.mp4",
+          "popularity": 16
+        },
+        {
+          "episode": 25,
+          "title": "Episode 25",
+          "thumbnail": "assets/thumbnails/naagini4-ep25.jpg",
+          "duration": "45:55",
+          "video_url": "https://example.com/demo/naagini4-ep25.mp4",
+          "popularity": 33
+        },
+        {
+          "episode": 26,
+          "title": "Episode 26",
+          "thumbnail": "assets/thumbnails/naagini4-ep26.jpg",
+          "duration": "21:10",
+          "video_url": "https://example.com/demo/naagini4-ep26.mp4",
+          "popularity": 50
+        },
+        {
+          "episode": 27,
+          "title": "Episode 27",
+          "thumbnail": "assets/thumbnails/naagini4-ep27.jpg",
+          "duration": "40:05",
+          "video_url": "https://example.com/demo/naagini4-ep27.mp4",
+          "popularity": 67
+        },
+        {
+          "episode": 28,
+          "title": "Episode 28",
+          "thumbnail": "assets/thumbnails/naagini4-ep28.jpg",
+          "duration": "45:00",
+          "video_url": "https://example.com/demo/naagini4-ep28.mp4",
+          "popularity": 84
+        },
+        {
+          "episode": 29,
+          "title": "Episode 29",
+          "thumbnail": "assets/thumbnails/naagini4-ep29.jpg",
+          "duration": "40:45",
+          "video_url": "https://example.com/demo/naagini4-ep29.mp4",
+          "popularity": 1
+        },
+        {
+          "episode": 30,
+          "title": "Episode 30",
+          "thumbnail": "assets/thumbnails/naagini4-ep30.jpg",
+          "duration": "42:30",
+          "video_url": "https://example.com/demo/naagini4-ep30.mp4",
+          "popularity": 18
+        }
+      ]
+    },
+    {
+      "id": "naagini-7",
+      "title": "Naagini 7",
+      "episode_count": 50,
+      "description": "A dark new chapter filled with secrets, supernatural forces and destiny.",
+      "poster": "assets/posters/naagini7.jpg",
+      "banner": "assets/banners/naagini7-banner.jpg",
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2"
+      ],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Episode 1",
+          "thumbnail": "assets/thumbnails/naagini7-ep1.jpg",
+          "duration": "38:05",
+          "video_url": "https://example.com/demo/naagini7-ep1.mp4",
+          "popularity": 25
+        },
+        {
+          "episode": 2,
+          "title": "Episode 2",
+          "thumbnail": "assets/thumbnails/naagini7-ep2.jpg",
+          "duration": "45:55",
+          "video_url": "https://example.com/demo/naagini7-ep2.mp4",
+          "popularity": 42
+        },
+        {
+          "episode": 3,
+          "title": "Episode 3",
+          "thumbnail": "assets/thumbnails/naagini7-ep3.jpg",
+          "duration": "38:05",
+          "video_url": "https://example.com/demo/naagini7-ep3.mp4",
+          "popularity": 59
+        },
+        {
+          "episode": 4,
+          "title": "Episode 4",
+          "thumbnail": "assets/thumbnails/naagini7-ep4.jpg",
+          "duration": "40:50",
+          "video_url": "https://example.com/demo/naagini7-ep4.mp4",
+          "popularity": 76
+        },
+        {
+          "episode": 5,
+          "title": "Episode 5",
+          "thumbnail": "assets/thumbnails/naagini7-ep5.jpg",
+          "duration": "45:05",
+          "video_url": "https://example.com/demo/naagini7-ep5.mp4",
+          "popularity": 93
+        },
+        {
+          "episode": 6,
+          "title": "Episode 6",
+          "thumbnail": "assets/thumbnails/naagini7-ep6.jpg",
+          "duration": "45:00",
+          "video_url": "https://example.com/demo/naagini7-ep6.mp4",
+          "popularity": 10
+        },
+        {
+          "episode": 7,
+          "title": "Episode 7",
+          "thumbnail": "assets/thumbnails/naagini7-ep7.jpg",
+          "duration": "41:40",
+          "video_url": "https://example.com/demo/naagini7-ep7.mp4",
+          "popularity": 27
+        },
+        {
+          "episode": 8,
+          "title": "Episode 8",
+          "thumbnail": "assets/thumbnails/naagini7-ep8.jpg",
+          "duration": "42:50",
+          "video_url": "https://example.com/demo/naagini7-ep8.mp4",
+          "popularity": 44
+        },
+        {
+          "episode": 9,
+          "title": "Episode 9",
+          "thumbnail": "assets/thumbnails/naagini7-ep9.jpg",
+          "duration": "41:05",
+          "video_url": "https://example.com/demo/naagini7-ep9.mp4",
+          "popularity": 61
+        },
+        {
+          "episode": 10,
+          "title": "Episode 10",
+          "thumbnail": "assets/thumbnails/naagini7-ep10.jpg",
+          "duration": "44:50",
+          "video_url": "https://example.com/demo/naagini7-ep10.mp4",
+          "popularity": 78
+        },
+        {
+          "episode": 11,
+          "title": "Episode 11",
+          "thumbnail": "assets/thumbnails/naagini7-ep11.jpg",
+          "duration": "41:00",
+          "video_url": "https://example.com/demo/naagini7-ep11.mp4",
+          "popularity": 95
+        },
+        {
+          "episode": 12,
+          "title": "Episode 12",
+          "thumbnail": "assets/thumbnails/naagini7-ep12.jpg",
+          "duration": "42:35",
+          "video_url": "https://example.com/demo/naagini7-ep12.mp4",
+          "popularity": 12
+        },
+        {
+          "episode": 13,
+          "title": "Episode 13",
+          "thumbnail": "assets/thumbnails/naagini7-ep13.jpg",
+          "duration": "21:30",
+          "video_url": "https://example.com/demo/naagini7-ep13.mp4",
+          "popularity": 29
+        },
+        {
+          "episode": 14,
+          "title": "Episode 14",
+          "thumbnail": "assets/thumbnails/naagini7-ep14.jpg",
+          "duration": "41:50",
+          "video_url": "https://example.com/demo/naagini7-ep14.mp4",
+          "popularity": 46
+        },
+        {
+          "episode": 15,
+          "title": "Episode 15",
+          "thumbnail": "assets/thumbnails/naagini7-ep15.jpg",
+          "duration": "43:55",
+          "video_url": "https://example.com/demo/naagini7-ep15.mp4",
+          "popularity": 63
+        },
+        {
+          "episode": 16,
+          "title": "Episode 16",
+          "thumbnail": "assets/thumbnails/naagini7-ep16.jpg",
+          "duration": "22:30",
+          "video_url": "https://example.com/demo/naagini7-ep16.mp4",
+          "popularity": 80
+        },
+        {
+          "episode": 17,
+          "title": "Episode 17",
+          "thumbnail": "assets/thumbnails/naagini7-ep17.jpg",
+          "duration": "22:55",
+          "video_url": "https://example.com/demo/naagini7-ep17.mp4",
+          "popularity": 97
+        },
+        {
+          "episode": 18,
+          "title": "Episode 18",
+          "thumbnail": "assets/thumbnails/naagini7-ep18.jpg",
+          "duration": "44:50",
+          "video_url": "https://example.com/demo/naagini7-ep18.mp4",
+          "popularity": 14
+        },
+        {
+          "episode": 19,
+          "title": "Episode 19",
+          "thumbnail": "assets/thumbnails/naagini7-ep19.jpg",
+          "duration": "40:45",
+          "video_url": "https://example.com/demo/naagini7-ep19.mp4",
+          "popularity": 31
+        },
+        {
+          "episode": 20,
+          "title": "Episode 20",
+          "thumbnail": "assets/thumbnails/naagini7-ep20.jpg",
+          "duration": "44:35",
+          "video_url": "https://example.com/demo/naagini7-ep20.mp4",
+          "popularity": 48
+        },
+        {
+          "episode": 21,
+          "title": "Episode 21",
+          "thumbnail": "assets/thumbnails/naagini7-ep21.jpg",
+          "duration": "43:30",
+          "video_url": "https://example.com/demo/naagini7-ep21.mp4",
+          "popularity": 65
+        },
+        {
+          "episode": 22,
+          "title": "Episode 22",
+          "thumbnail": "assets/thumbnails/naagini7-ep22.jpg",
+          "duration": "45:20",
+          "video_url": "https://example.com/demo/naagini7-ep22.mp4",
+          "popularity": 82
+        },
+        {
+          "episode": 23,
+          "title": "Episode 23",
+          "thumbnail": "assets/thumbnails/naagini7-ep23.jpg",
+          "duration": "41:15",
+          "video_url": "https://example.com/demo/naagini7-ep23.mp4",
+          "popularity": 99
+        },
+        {
+          "episode": 24,
+          "title": "Episode 24",
+          "thumbnail": "assets/thumbnails/naagini7-ep24.jpg",
+          "duration": "21:20",
+          "video_url": "https://example.com/demo/naagini7-ep24.mp4",
+          "popularity": 16
+        },
+        {
+          "episode": 25,
+          "title": "Episode 25",
+          "thumbnail": "assets/thumbnails/naagini7-ep25.jpg",
+          "duration": "43:15",
+          "video_url": "https://example.com/demo/naagini7-ep25.mp4",
+          "popularity": 33
+        },
+        {
+          "episode": 26,
+          "title": "Episode 26",
+          "thumbnail": "assets/thumbnails/naagini7-ep26.jpg",
+          "duration": "43:45",
+          "video_url": "https://example.com/demo/naagini7-ep26.mp4",
+          "popularity": 50
+        },
+        {
+          "episode": 27,
+          "title": "Episode 27",
+          "thumbnail": "assets/thumbnails/naagini7-ep27.jpg",
+          "duration": "45:50",
+          "video_url": "https://example.com/demo/naagini7-ep27.mp4",
+          "popularity": 67
+        },
+        {
+          "episode": 28,
+          "title": "Episode 28",
+          "thumbnail": "assets/thumbnails/naagini7-ep28.jpg",
+          "duration": "42:25",
+          "video_url": "https://example.com/demo/naagini7-ep28.mp4",
+          "popularity": 84
+        },
+        {
+          "episode": 29,
+          "title": "Episode 29",
+          "thumbnail": "assets/thumbnails/naagini7-ep29.jpg",
+          "duration": "20:35",
+          "video_url": "https://example.com/demo/naagini7-ep29.mp4",
+          "popularity": 1
+        },
+        {
+          "episode": 30,
+          "title": "Episode 30",
+          "thumbnail": "assets/thumbnails/naagini7-ep30.jpg",
+          "duration": "41:10",
+          "video_url": "https://example.com/demo/naagini7-ep30.mp4",
+          "popularity": 18
+        },
+        {
+          "episode": 31,
+          "title": "Episode 31",
+          "thumbnail": "assets/thumbnails/naagini7-ep31.jpg",
+          "duration": "43:15",
+          "video_url": "https://example.com/demo/naagini7-ep31.mp4",
+          "popularity": 35
+        },
+        {
+          "episode": 32,
+          "title": "Episode 32",
+          "thumbnail": "assets/thumbnails/naagini7-ep32.jpg",
+          "duration": "41:20",
+          "video_url": "https://example.com/demo/naagini7-ep32.mp4",
+          "popularity": 52
+        },
+        {
+          "episode": 33,
+          "title": "Episode 33",
+          "thumbnail": "assets/thumbnails/naagini7-ep33.jpg",
+          "duration": "41:20",
+          "video_url": "https://example.com/demo/naagini7-ep33.mp4",
+          "popularity": 69
+        },
+        {
+          "episode": 34,
+          "title": "Episode 34",
+          "thumbnail": "assets/thumbnails/naagini7-ep34.jpg",
+          "duration": "45:55",
+          "video_url": "https://example.com/demo/naagini7-ep34.mp4",
+          "popularity": 86
+        },
+        {
+          "episode": 35,
+          "title": "Episode 35",
+          "thumbnail": "assets/thumbnails/naagini7-ep35.jpg",
+          "duration": "40:40",
+          "video_url": "https://example.com/demo/naagini7-ep35.mp4",
+          "popularity": 3
+        },
+        {
+          "episode": 36,
+          "title": "Episode 36",
+          "thumbnail": "assets/thumbnails/naagini7-ep36.jpg",
+          "duration": "20:40",
+          "video_url": "https://example.com/demo/naagini7-ep36.mp4",
+          "popularity": 20
+        },
+        {
+          "episode": 37,
+          "title": "Episode 37",
+          "thumbnail": "assets/thumbnails/naagini7-ep37.jpg",
+          "duration": "38:05",
+          "video_url": "https://example.com/demo/naagini7-ep37.mp4",
+          "popularity": 37
+        },
+        {
+          "episode": 38,
+          "title": "Episode 38",
+          "thumbnail": "assets/thumbnails/naagini7-ep38.jpg",
+          "duration": "38:55",
+          "video_url": "https://example.com/demo/naagini7-ep38.mp4",
+          "popularity": 54
+        },
+        {
+          "episode": 39,
+          "title": "Episode 39",
+          "thumbnail": "assets/thumbnails/naagini7-ep39.jpg",
+          "duration": "42:35",
+          "video_url": "https://example.com/demo/naagini7-ep39.mp4",
+          "popularity": 71
+        },
+        {
+          "episode": 40,
+          "title": "Episode 40",
+          "thumbnail": "assets/thumbnails/naagini7-ep40.jpg",
+          "duration": "44:15",
+          "video_url": "https://example.com/demo/naagini7-ep40.mp4",
+          "popularity": 88
+        },
+        {
+          "episode": 41,
+          "title": "Episode 41",
+          "thumbnail": "assets/thumbnails/naagini7-ep41.jpg",
+          "duration": "43:50",
+          "video_url": "https://example.com/demo/naagini7-ep41.mp4",
+          "popularity": 5
+        },
+        {
+          "episode": 42,
+          "title": "Episode 42",
+          "thumbnail": "assets/thumbnails/naagini7-ep42.jpg",
+          "duration": "43:35",
+          "video_url": "https://example.com/demo/naagini7-ep42.mp4",
+          "popularity": 22
+        },
+        {
+          "episode": 43,
+          "title": "Episode 43",
+          "thumbnail": "assets/thumbnails/naagini7-ep43.jpg",
+          "duration": "20:05",
+          "video_url": "https://example.com/demo/naagini7-ep43.mp4",
+          "popularity": 39
+        },
+        {
+          "episode": 44,
+          "title": "Episode 44",
+          "thumbnail": "assets/thumbnails/naagini7-ep44.jpg",
+          "duration": "40:15",
+          "video_url": "https://example.com/demo/naagini7-ep44.mp4",
+          "popularity": 56
+        },
+        {
+          "episode": 45,
+          "title": "Episode 45",
+          "thumbnail": "assets/thumbnails/naagini7-ep45.jpg",
+          "duration": "42:55",
+          "video_url": "https://example.com/demo/naagini7-ep45.mp4",
+          "popularity": 73
+        },
+        {
+          "episode": 46,
+          "title": "Episode 46",
+          "thumbnail": "assets/thumbnails/naagini7-ep46.jpg",
+          "duration": "38:20",
+          "video_url": "https://example.com/demo/naagini7-ep46.mp4",
+          "popularity": 90
+        },
+        {
+          "episode": 47,
+          "title": "Episode 47",
+          "thumbnail": "assets/thumbnails/naagini7-ep47.jpg",
+          "duration": "45:25",
+          "video_url": "https://example.com/demo/naagini7-ep47.mp4",
+          "popularity": 7
+        },
+        {
+          "episode": 48,
+          "title": "Episode 48",
+          "thumbnail": "assets/thumbnails/naagini7-ep48.jpg",
+          "duration": "43:40",
+          "video_url": "https://example.com/demo/naagini7-ep48.mp4",
+          "popularity": 24
+        },
+        {
+          "episode": 49,
+          "title": "Episode 49",
+          "thumbnail": "assets/thumbnails/naagini7-ep49.jpg",
+          "duration": "44:25",
+          "video_url": "https://example.com/demo/naagini7-ep49.mp4",
+          "popularity": 41
+        },
+        {
+          "episode": 50,
+          "title": "Episode 50",
+          "thumbnail": "assets/thumbnails/naagini7-ep50.jpg",
+          "duration": "42:55",
+          "video_url": "https://example.com/demo/naagini7-ep50.mp4",
+          "popularity": 58
+        }
+      ]
+    }
+  ]
+}
