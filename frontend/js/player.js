@@ -109,17 +109,13 @@ const INTRO_SKIP_SECONDS = 30;
     playVideo(episode.video_url);
   }
 
-function convertGoogleDriveUrl(url) {
-  if (!url) return "";
+
+function getGoogleDriveFileId(url) {
+  if (!url) return null;
 
   const match = url.match(/drive\.google\.com\/file\/d\/([^/]+)/);
 
-  if (match && match[1]) {
-    const fileId = match[1];
-    return `https://drive.google.com/uc?export=download&id=${fileId}`;
-  }
-
-  return url;
+  return match ? match[1] : null;
 }
 
 function playVideo(url) {
@@ -129,12 +125,28 @@ function playVideo(url) {
   showLoading(true);
   showError(null);
 
-  video.src = convertGoogleDriveUrl(url);
+  const fileId = getGoogleDriveFileId(url);
+
+  if (fileId) {
+    const iframe = document.createElement("iframe");
+
+    iframe.src = `https://drive.google.com/file/d/${fileId}/preview`;
+    iframe.style.width = "100%";
+    iframe.style.height = "100%";
+    iframe.style.border = "0";
+    iframe.setAttribute("allow", "autoplay; fullscreen");
+    iframe.setAttribute("allowfullscreen", "");
+
+    video.parentElement.replaceChild(iframe, video);
+
+    showLoading(false);
+    return;
+  }
+
+  video.src = url;
   video.load();
 
-  video.play().catch(() => {
-    // Autoplay might be blocked; that's fine, user can press play.
-  });
+  video.play().catch(() => {});
 }
 
   function showLoading(isLoading) {
