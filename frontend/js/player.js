@@ -109,20 +109,33 @@ const INTRO_SKIP_SECONDS = 30;
     playVideo(episode.video_url);
   }
 
-  function playVideo(url) {
-    const video = els.video;
-    if (!video) return;
+function convertGoogleDriveUrl(url) {
+  if (!url) return "";
 
-    showLoading(true);
-    showError(null);
+  const match = url.match(/drive\.google\.com\/file\/d\/([^/]+)/);
 
-    video.src = url;
-    video.load();
-
-    video.play().catch(() => {
-      // Autoplay might be blocked; that's fine, user can press play.
-    });
+  if (match && match[1]) {
+    const fileId = match[1];
+    return `https://drive.google.com/uc?export=download&id=${fileId}`;
   }
+
+  return url;
+}
+
+function playVideo(url) {
+  const video = els.video;
+  if (!video) return;
+
+  showLoading(true);
+  showError(null);
+
+  video.src = convertGoogleDriveUrl(url);
+  video.load();
+
+  video.play().catch(() => {
+    // Autoplay might be blocked; that's fine, user can press play.
+  });
+}
 
   function showLoading(isLoading) {
     if (!els.loading) return;
