@@ -6,11 +6,13 @@
 <title>Season — MystiPlay</title>
 <link rel="stylesheet" href="/css/style.css">
 </head>
+
 <body data-page="season">
 
 <div class="state-banner" data-global-error role="alert"></div>
 
 <nav class="nav" aria-label="Primary">
+
   <a href="/index.html" class="brand">
     <span class="brand-name">MYSTI<span>PLAY</span></span>
     <span class="brand-sub">NAAGINI OTT</span>
@@ -18,8 +20,10 @@
 
   <ul class="nav-links">
     <li><a href="/index.html">Home</a></li>
+
     <li class="shows-menu-wrap">
       <a href="/index.html#shows" tabindex="0">Shows</a>
+
       <ul class="shows-menu">
         <li><a href="/season.html?season=naagini-1">Naagini 1</a></li>
         <li><a href="/season.html?season=naagini-2">Naagini 2</a></li>
@@ -28,96 +32,232 @@
         <li><a href="/season.html?season=naagini-7">Naagini 7</a></li>
       </ul>
     </li>
+
     <li><a href="/index.html#latest">Latest</a></li>
     <li><a href="/index.html#my-list">My List</a></li>
     <li><a href="/search.html">Search</a></li>
   </ul>
 
   <div class="nav-actions">
+
     <a href="/search.html" class="icon-btn" aria-label="Search">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="7"/>
+        <path d="m21 21-4.3-4.3"/>
+      </svg>
     </a>
+
     <button class="icon-btn" data-open-profile aria-label="Profile">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c1.5-4 5-6 8-6s6.5 2 8 6"/></svg>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="12" cy="8" r="4"/>
+        <path d="M4 20c1.5-4 5-6 8-6s6.5 2 8 6"/>
+      </svg>
     </button>
+
     <button class="nav-toggle" aria-label="Menu" aria-expanded="false">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M3 6h18M3 12h18M3 18h18"/>
+      </svg>
     </button>
+
   </div>
 </nav>
 
+
 <!-- Cinematic season cover -->
 <header class="cover">
+
   <div class="cover-media" data-cover-media>
     <div class="hero-placeholder"></div>
   </div>
+
   <div class="cover-content">
+
     <div class="cover-poster" data-cover-poster></div>
+
     <div class="cover-info">
+
       <h1 class="cover-title" data-cover-title>Loading…</h1>
+
       <div class="hero-meta">
         <span class="pill" data-cover-count>— Episodes</span>
       </div>
+
       <p class="hero-desc" data-cover-desc></p>
+
       <div class="hero-actions">
+
         <a href="#" class="btn btn-primary" data-cover-watch>
-          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+          <svg viewBox="0 0 24 24" fill="currentColor">
+            <path d="M8 5v14l11-7z"/>
+          </svg>
           <span class="btn-label-full">Watch Now</span>
         </a>
-        <button class="btn btn-ghost" data-cover-list>+ Add to My List</button>
-        <button class="btn btn-outline" data-scroll-episodes>Episodes ↓</button>
+
+        <!-- NEW: PLAY TRAILER -->
+        <a href="#" class="btn btn-outline" data-cover-trailer>
+          <svg viewBox="0 0 24 24" fill="currentColor">
+            <path d="M8 5v14l11-7z"/>
+          </svg>
+          <span>Play Trailer</span>
+        </a>
+
+        <button class="btn btn-ghost" data-cover-list>
+          + Add to My List
+        </button>
+
+        <button class="btn btn-outline" data-scroll-episodes>
+          Episodes ↓
+        </button>
+
       </div>
+
       <div class="cover-cast" data-cover-cast></div>
+
     </div>
   </div>
+
   <div class="scroll-cue">SCROLL FOR EPISODES</div>
+
 </header>
 
+
 <main>
+
   <section class="section">
+
     <div class="container">
+
       <div class="section-head">
         <h2 class="section-title">Episodes</h2>
         <span class="section-link" data-range-label></span>
       </div>
+
       <div class="episode-grid" data-episode-grid></div>
+
       <div class="load-more-wrap">
-        <button class="btn btn-outline" data-load-more>Load More</button>
+        <button class="btn btn-outline" data-load-more>
+          Load More
+        </button>
       </div>
+
     </div>
+
   </section>
+
 </main>
+
 
 <footer class="site-footer">
   <div class="footer-brand">MYSTIPLAY</div>
-  <p>Naagini OTT — a fan-made streaming demo. All episode data lives in data/episodes.json.</p>
+  <p>
+    Naagini OTT — a fan-made streaming demo.
+    All episode data lives in data/episodes.json.
+  </p>
 </footer>
 
+
 <nav class="bottom-nav" aria-label="Mobile">
+
   <ul class="bottom-nav-list">
-    <li><a href="/index.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg>Home</a></li>
-    <li><a href="/index.html#shows"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>Shows</a></li>
-    <li><a href="/search.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>Search</a></li>
-    <li><a href="/index.html#my-list"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg>My List</a></li>
-    <li><a href="#" data-open-profile><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c1.5-4 5-6 8-6s6.5 2 8 6"/></svg>Profile</a></li>
+
+    <li>
+      <a href="/index.html">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M3 10.5 12 3l9 7.5"/>
+          <path d="M5 9.5V21h14V9.5"/>
+        </svg>
+        Home
+      </a>
+    </li>
+
+    <li>
+      <a href="/index.html#shows">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="3" y="3" width="7" height="7"/>
+          <rect x="14" y="3" width="7" height="7"/>
+          <rect x="3" y="14" width="7" height="7"/>
+          <rect x="14" y="14" width="7" height="7"/>
+        </svg>
+        Shows
+      </a>
+    </li>
+
+    <li>
+      <a href="/search.html">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="7"/>
+          <path d="m21 21-4.3-4.3"/>
+        </svg>
+        Search
+      </a>
+    </li>
+
+    <li>
+      <a href="/index.html#my-list">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M12 5v14M5 12h14"/>
+        </svg>
+        My List
+      </a>
+    </li>
+
+    <li>
+      <a href="#" data-open-profile>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="8" r="4"/>
+          <path d="M4 20c1.5-4 5-6 8-6s6.5 2 8 6"/>
+        </svg>
+        Profile
+      </a>
+    </li>
+
   </ul>
+
 </nav>
 
+
 <div class="profile-modal">
+
   <div class="profile-card">
+
     <h2>Who's Watching?</h2>
+
     <div class="profile-avatar" data-profile-avatar>V</div>
+
     <p class="profile-name" data-profile-name>Varun</p>
+
     <div class="profile-actions">
-      <a href="/index.html#continue-watching" class="btn btn-outline" data-close-profile>Continue Watching</a>
-      <a href="/index.html#my-list" class="btn btn-outline" data-close-profile>My List</a>
-      <a href="/search.html" class="btn btn-outline" data-close-profile>Settings</a>
+      <a href="/index.html#continue-watching"
+         class="btn btn-outline"
+         data-close-profile>
+        Continue Watching
+      </a>
+
+      <a href="/index.html#my-list"
+         class="btn btn-outline"
+         data-close-profile>
+        My List
+      </a>
+
+      <a href="/search.html"
+         class="btn btn-outline"
+         data-close-profile>
+        Settings
+      </a>
     </div>
-    <button class="profile-close" data-close-profile>Close</button>
+
+    <button class="profile-close" data-close-profile>
+      Close
+    </button>
+
   </div>
+
 </div>
+
 
 <script src="/js/app.js"></script>
 <script src="/js/seasons.js"></script>
+
 </body>
 </html>
