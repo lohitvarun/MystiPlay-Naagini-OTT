@@ -3033,7 +3033,7 @@
           "title": "Episode 1",
           "thumbnail": "assets/thumbnails/Naagini7-Ep1.avif",
           "duration": "27:33",
-          "video_url": "https://drive.google.com/file/d/1yjjU1T2Qt4-zdkX5T-Ex1Ka2r6_8UCB8/view?usp=sharing",
+          "video_url": "",
           "popularity": 25
         },
         {
@@ -3041,7 +3041,7 @@
           "title": "Episode 2",
           "thumbnail": "assets/thumbnails/Naagini7-Ep2.avif",
           "duration": "25:13",
-          "video_url": "https://drive.google.com/file/d/1wfBQS6Mti2g0htHZO-VlB098C9XrRYW6/view?usp=sharing",
+          "video_url": "",
           "popularity": 42
         },
         {
@@ -3049,15 +3049,7 @@
           "title": "Episode 3 Part 1",
           "thumbnail": "assets/thumbnails/naagini7-ep3.jpg",
           "duration": "28:38",
-          "video_url": "https://drive.google.com/file/d/1tpQDtUNvfN-oyahEyKAfN4BpE7Izuy7i/view?usp=sharing",
-          "popularity": 59
-        },
-        {
-          "episode": 3,
-          "title": "Episode 3 Part II",
-          "thumbnail": "assets/thumbnails/naagini7-ep3.jpg",
-          "duration": "16:22",
-          "video_url": "https://drive.google.com/file/d/1RzJIFDcw0YqJ-6pND3SIdeOTmOlwnvv1/view?usp=sharing",
+          "video_url": "",
           "popularity": 59
         },
         {
@@ -3065,7 +3057,7 @@
           "title": "Episode 4",
           "thumbnail": "assets/thumbnails/naagini7-ep4.jpg",
           "duration": "24:58",
-          "video_url": "https://drive.google.com/file/d/1Evk3DyxLmaI6kHS2GKRSAw2UIas_p7Rd/view?usp=sharing",
+          "video_url": "",
           "popularity": 76
         },
         {
@@ -3073,7 +3065,7 @@
           "title": "Episode 5",
           "thumbnail": "assets/thumbnails/naagini7-ep5.jpg",
           "duration": "21:36",
-          "video_url": "https://drive.google.com/file/d/1bYM4x1JrwpvLbC-4An-acgFyjUyAN2Xd/view?usp=sharing",
+          "video_url": "",
           "popularity": 93
         },
         {
@@ -3081,7 +3073,7 @@
           "title": "Episode 6",
           "thumbnail": "assets/thumbnails/naagini7-ep6.jpg",
           "duration": "42:55",
-          "video_url": "https://drive.google.com/file/d/12yZh3UmPrPuiTij09wK_dAX1430hTgbx/view?usp=sharing",
+          "video_url": "",
           "popularity": 10
         },
         {
@@ -3089,7 +3081,7 @@
           "title": "Episode 7",
           "thumbnail": "assets/thumbnails/naagini7-ep7.jpg",
           "duration": "20:44",
-          "video_url": "https://drive.google.com/file/d/1-eqGNayX_gKxdBE1vFgJ6yRV4pSaqNv-/view?usp=sharing",
+          "video_url": "",
           "popularity": 27
         },
         {
@@ -3097,7 +3089,7 @@
           "title": "Episode 8",
           "thumbnail": "assets/thumbnails/naagini7-ep8.jpg",
           "duration": "24:14",
-          "video_url": "https://drive.google.com/file/d/1z6rCOryjL45J6r_XYTS-XPjqOysSWJtC/view?usp=sharing",
+          "video_url": "",
           "popularity": 44
         },
         {
@@ -3105,7 +3097,7 @@
           "title": "Episode 9",
           "thumbnail": "assets/thumbnails/naagini7-ep9.jpg",
           "duration": "24:44",
-          "video_url": "https://drive.google.com/file/d/1m9PvgE_AMZ7vrzaDi7nGZqqBG13FuQW7/view?usp=sharing",
+          "video_url": "",
           "popularity": 61
         },
         {
@@ -3113,7 +3105,7 @@
           "title": "Episode 10",
           "thumbnail": "assets/thumbnails/naagini7-ep10.jpg",
           "duration": "23:47",
-          "video_url": "https://drive.google.com/file/d/1bI7kEpnIgNWX53ee90Gd5FbtAEftyVg5/view?usp=drive_link",
+          "video_url": "",
           "popularity": 78
         },
         {
