@@ -218,16 +218,16 @@
         {
           "episode": 25,
           "title": "Episode 25",
-          "thumbnail": "assets/thumbnails/naagini1-ep25.jpg",
+          "thumbnail": "assets/thumbnails/naagini1-ep25.avif",
           "duration": "21:30",
-          "video_url": "https://example.com/demo/naagini1-ep25.mp4",
+          "video_url": "https://drive.google.com/file/d/1xRbZ7H5xwN_c1B_zm1ML8zq1fshMk3OP/view?usp=drivesdk",
           "popularity": 33
         },
         {
           "episode": 26,
           "title": "Episode 26",
           "thumbnail": "assets/thumbnails/naagini1-ep26.jpg",
-          "duration": "21:40",
+          "duration": "41:54",
           "video_url": "https://example.com/demo/naagini1-ep26.mp4",
           "popularity": 50
         },
